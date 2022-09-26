@@ -1,0 +1,1086 @@
+个险：3小时40分
+2022/02/23 13:01:57 - Spoon - 正在开始任务...
+2022/02/23 13:01:57 - JOB-YEWU - 开始执行任务
+2022/02/23 13:01:57 - JOB-YEWU - 开始项[dataTrans01-01]
+2022/02/23 13:01:57 - dataTrans01-01 - Loading transformation from XML file [file:///D:/data/ICP-RUITAI/project/aml-gitlab/document/kettle\dataTrans01-01.ktr]
+2022/02/23 13:01:57 - dataTrans01-01 - 为了转换解除补丁开始  [dataTrans01-01]
+2022/02/23 13:01:58 - 表输出C_LoanPayment.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:01:58 - 表输出C_Business_Name.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:01:58 - 表输出C_ID_Card_Info.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:01:59 - 表输出C_Party_Birthday.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:02:00 - 表输出C_Party_Change.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:02:01 - 表输出C_Product_Type.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:02:01 - 表输入C_LoanPayment.0 - Finished reading query, closing connection.
+2022/02/23 13:02:01 - 表输入C_Product_Type.0 - Finished reading query, closing connection.
+2022/02/23 13:02:01 - 表输入C_Product_Type.0 - 完成处理 (I=142, O=0, R=0, W=142, U=0, E=0
+2022/02/23 13:02:03 - 表输入C_Party_Change.0 - Finished reading query, closing connection.
+2022/02/23 13:02:03 - 表输入C_Party_Change.0 - 完成处理 (I=755, O=0, R=0, W=755, U=0, E=0
+2022/02/23 13:02:13 - 表输出C_Product_Type.0 - 完成处理 (I=0, O=142, R=142, W=142, U=0, E=0
+2022/02/23 13:02:14 - 表输出C_Party_Change.0 - 完成处理 (I=0, O=755, R=755, W=755, U=0, E=0
+2022/02/23 13:02:25 - 表输入C_Party_Birthday.0 - linenr 50000
+2022/02/23 13:02:33 - 表输出C_Party_Birthday.0 - linenr 50000
+2022/02/23 13:02:36 - 表输入C_ID_Card_Info.0 - linenr 50000
+2022/02/23 13:02:45 - 表输入C_Business_Name.0 - linenr 50000
+2022/02/23 13:02:50 - 表输入C_Party_Birthday.0 - linenr 100000
+2022/02/23 13:02:57 - 表输出C_Business_Name.0 - linenr 50000
+2022/02/23 13:02:57 - 表输出C_ID_Card_Info.0 - linenr 50000
+2022/02/23 13:03:02 - 表输出C_Party_Birthday.0 - linenr 100000
+2022/02/23 13:03:13 - 表输入C_Party_Birthday.0 - linenr 150000
+2022/02/23 13:03:20 - 表输出C_Party_Birthday.0 - linenr 150000
+2022/02/23 13:03:24 - 表输入C_Business_Name.0 - linenr 100000
+2022/02/23 13:03:29 - 表输入C_ID_Card_Info.0 - linenr 100000
+2022/02/23 13:03:32 - 表输入C_Party_Birthday.0 - linenr 200000
+2022/02/23 13:03:39 - 表输出C_Party_Birthday.0 - linenr 200000
+2022/02/23 13:03:42 - 表输出C_Business_Name.0 - linenr 100000
+2022/02/23 13:03:46 - 表输出C_ID_Card_Info.0 - linenr 100000
+2022/02/23 13:03:55 - 表输入C_Party_Birthday.0 - linenr 250000
+2022/02/23 13:04:04 - 表输出C_Party_Birthday.0 - linenr 250000
+2022/02/23 13:04:15 - 表输入C_Party_Birthday.0 - linenr 300000
+2022/02/23 13:04:18 - 表输入C_Business_Name.0 - linenr 150000
+2022/02/23 13:04:21 - 表输出C_Party_Birthday.0 - linenr 300000
+2022/02/23 13:04:23 - 表输入C_ID_Card_Info.0 - linenr 150000
+2022/02/23 13:04:32 - 表输出C_Business_Name.0 - linenr 150000
+2022/02/23 13:04:33 - 表输入C_Party_Birthday.0 - linenr 350000
+2022/02/23 13:04:40 - 表输出C_Party_Birthday.0 - linenr 350000
+2022/02/23 13:04:41 - 表输出C_ID_Card_Info.0 - linenr 150000
+2022/02/23 13:04:52 - 表输入C_Party_Birthday.0 - linenr 400000
+2022/02/23 13:04:59 - 表输出C_Party_Birthday.0 - linenr 400000
+2022/02/23 13:05:06 - 表输入C_Business_Name.0 - linenr 200000
+2022/02/23 13:05:11 - 表输入C_Party_Birthday.0 - linenr 450000
+2022/02/23 13:05:11 - 表输入C_ID_Card_Info.0 - linenr 200000
+2022/02/23 13:05:18 - 表输出C_Party_Birthday.0 - linenr 450000
+2022/02/23 13:05:27 - 表输出C_Business_Name.0 - linenr 200000
+2022/02/23 13:05:28 - 表输入C_Party_Birthday.0 - linenr 500000
+2022/02/23 13:05:34 - 表输出C_ID_Card_Info.0 - linenr 200000
+2022/02/23 13:05:37 - 表输出C_Party_Birthday.0 - linenr 500000
+2022/02/23 13:05:48 - 表输入C_Party_Birthday.0 - linenr 550000
+2022/02/23 13:05:56 - 表输出C_Party_Birthday.0 - linenr 550000
+2022/02/23 13:06:05 - 表输入C_Business_Name.0 - linenr 250000
+2022/02/23 13:06:08 - 表输入C_ID_Card_Info.0 - linenr 250000
+2022/02/23 13:06:08 - 表输入C_Party_Birthday.0 - linenr 600000
+2022/02/23 13:06:16 - 表输出C_Party_Birthday.0 - linenr 600000
+2022/02/23 13:06:26 - 表输出C_Business_Name.0 - linenr 250000
+2022/02/23 13:06:28 - 表输入C_Party_Birthday.0 - linenr 650000
+2022/02/23 13:06:33 - 表输出C_ID_Card_Info.0 - linenr 250000
+2022/02/23 13:06:35 - 表输出C_Party_Birthday.0 - linenr 650000
+2022/02/23 13:06:45 - 表输入C_Party_Birthday.0 - Finished reading query, closing connection.
+2022/02/23 13:06:45 - 表输入C_Party_Birthday.0 - 完成处理 (I=694606, O=0, R=0, W=694606, U=0, E=0
+2022/02/23 13:06:51 - 表输出C_Party_Birthday.0 - 完成处理 (I=0, O=694606, R=694606, W=694606, U=0, E=0
+2022/02/23 13:06:56 - 表输入C_ID_Card_Info.0 - linenr 300000
+2022/02/23 13:06:57 - 表输入C_Business_Name.0 - linenr 300000
+2022/02/23 13:07:03 - 表输出C_ID_Card_Info.0 - linenr 300000
+2022/02/23 13:07:04 - 表输出C_Business_Name.0 - linenr 300000
+2022/02/23 13:07:17 - 表输入C_ID_Card_Info.0 - linenr 350000
+2022/02/23 13:07:23 - 表输入C_Business_Name.0 - linenr 350000
+2022/02/23 13:07:26 - 表输出C_ID_Card_Info.0 - linenr 350000
+2022/02/23 13:07:32 - 表输出C_Business_Name.0 - linenr 350000
+2022/02/23 13:07:38 - 表输入C_ID_Card_Info.0 - linenr 400000
+2022/02/23 13:07:46 - 表输出C_ID_Card_Info.0 - linenr 400000
+2022/02/23 13:07:47 - 表输入C_Business_Name.0 - linenr 400000
+2022/02/23 13:07:57 - 表输出C_Business_Name.0 - linenr 400000
+2022/02/23 13:08:00 - 表输入C_ID_Card_Info.0 - linenr 450000
+2022/02/23 13:08:07 - 表输出C_ID_Card_Info.0 - linenr 450000
+2022/02/23 13:08:11 - 表输入C_Business_Name.0 - linenr 450000
+2022/02/23 13:08:23 - 表输入C_ID_Card_Info.0 - linenr 500000
+2022/02/23 13:08:23 - 表输出C_Business_Name.0 - linenr 450000
+2022/02/23 13:08:31 - 表输出C_ID_Card_Info.0 - linenr 500000
+2022/02/23 13:08:39 - 表输入C_Business_Name.0 - linenr 500000
+2022/02/23 13:08:41 - 表输入C_ID_Card_Info.0 - Finished reading query, closing connection.
+2022/02/23 13:08:41 - 表输入C_ID_Card_Info.0 - 完成处理 (I=530834, O=0, R=0, W=530834, U=0, E=0
+2022/02/23 13:08:44 - 表输出C_ID_Card_Info.0 - 完成处理 (I=0, O=530834, R=530834, W=530834, U=0, E=0
+2022/02/23 13:08:47 - 表输出C_Business_Name.0 - linenr 500000
+2022/02/23 13:08:47 - 表输入C_Business_Name.0 - Finished reading query, closing connection.
+2022/02/23 13:08:47 - 表输入C_Business_Name.0 - 完成处理 (I=518265, O=0, R=0, W=518265, U=0, E=0
+2022/02/23 13:08:53 - 表输出C_Business_Name.0 - 完成处理 (I=0, O=518265, R=518265, W=518265, U=0, E=0
+2022/02/23 13:08:53 - JOB-YEWU - 开始项[dataTrans01-02]
+2022/02/23 13:08:53 - dataTrans01-02 - Loading transformation from XML file [file:///D:/data/ICP-RUITAI/project/aml-gitlab/document/kettle\dataTrans01-02.ktr]
+2022/02/23 13:08:53 - dataTrans01-02 - 为了转换解除补丁开始  [dataTrans01-02]
+2022/02/23 13:08:53 - 表输出C_ID_Info.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:08:53 - 表输出C_Sales_Channel.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:08:53 - 表输出C_Industry_Occupation.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:08:53 - 表输出C_LIFASSUR_Number.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:09:25 - 表输入C_ID_Info.0 - linenr 50000
+2022/02/23 13:09:32 - 表输入C_Sales_Channel.0 - linenr 50000
+2022/02/23 13:09:32 - 表输入C_LIFASSUR_Number.0 - linenr 50000
+2022/02/23 13:09:33 - 表输出C_ID_Info.0 - linenr 50000
+2022/02/23 13:09:44 - 表输入C_Industry_Occupation.0 - linenr 50000
+2022/02/23 13:09:45 - 表输出C_Sales_Channel.0 - linenr 50000
+2022/02/23 13:09:52 - 表输出C_LIFASSUR_Number.0 - linenr 50000
+2022/02/23 13:10:00 - 表输入C_ID_Info.0 - linenr 100000
+2022/02/23 13:10:01 - 表输入C_Sales_Channel.0 - linenr 100000
+2022/02/23 13:10:08 - 表输出C_ID_Info.0 - linenr 100000
+2022/02/23 13:10:12 - 表输出C_Sales_Channel.0 - linenr 100000
+2022/02/23 13:10:13 - 表输出C_Industry_Occupation.0 - linenr 50000
+2022/02/23 13:10:25 - 表输入C_LIFASSUR_Number.0 - linenr 100000
+2022/02/23 13:10:34 - 表输入C_ID_Info.0 - linenr 150000
+2022/02/23 13:10:41 - 表输出C_LIFASSUR_Number.0 - linenr 100000
+2022/02/23 13:10:43 - 表输出C_ID_Info.0 - linenr 150000
+2022/02/23 13:10:49 - 表输入C_Sales_Channel.0 - linenr 150000
+2022/02/23 13:10:56 - 表输入C_Industry_Occupation.0 - linenr 100000
+2022/02/23 13:11:05 - 表输出C_Sales_Channel.0 - linenr 150000
+2022/02/23 13:11:07 - 表输入C_ID_Info.0 - linenr 200000
+2022/02/23 13:11:15 - 表输入C_LIFASSUR_Number.0 - linenr 150000
+2022/02/23 13:11:18 - 表输出C_ID_Info.0 - linenr 200000
+2022/02/23 13:11:24 - 表输出C_Industry_Occupation.0 - linenr 100000
+2022/02/23 13:11:37 - 表输入C_Sales_Channel.0 - linenr 200000
+2022/02/23 13:11:42 - 表输出C_LIFASSUR_Number.0 - linenr 150000
+2022/02/23 13:11:45 - 表输入C_ID_Info.0 - linenr 250000
+2022/02/23 13:11:55 - 表输出C_Sales_Channel.0 - linenr 200000
+2022/02/23 13:11:55 - 表输出C_ID_Info.0 - linenr 250000
+2022/02/23 13:12:03 - 表输入C_Industry_Occupation.0 - linenr 150000
+2022/02/23 13:12:09 - 表输入C_LIFASSUR_Number.0 - linenr 200000
+2022/02/23 13:12:16 - 表输入C_ID_Info.0 - linenr 300000
+2022/02/23 13:12:21 - 表输出C_LIFASSUR_Number.0 - linenr 200000
+2022/02/23 13:12:26 - 表输出C_ID_Info.0 - linenr 300000
+2022/02/23 13:12:33 - 表输出C_Industry_Occupation.0 - linenr 150000
+2022/02/23 13:12:47 - 表输入C_Sales_Channel.0 - linenr 250000
+2022/02/23 13:12:53 - 表输入C_LIFASSUR_Number.0 - linenr 250000
+2022/02/23 13:13:00 - 表输入C_ID_Info.0 - linenr 350000
+2022/02/23 13:13:18 - 表输出C_ID_Info.0 - linenr 350000
+2022/02/23 13:13:20 - 表输出C_Sales_Channel.0 - linenr 250000
+2022/02/23 13:13:30 - 表输出C_LIFASSUR_Number.0 - linenr 250000
+2022/02/23 13:13:33 - 表输入C_Industry_Occupation.0 - linenr 200000
+2022/02/23 13:13:46 - 表输入C_ID_Info.0 - linenr 400000
+2022/02/23 13:13:55 - 表输入C_Sales_Channel.0 - linenr 300000
+2022/02/23 13:13:58 - 表输出C_Industry_Occupation.0 - linenr 200000
+2022/02/23 13:13:58 - 表输入C_LIFASSUR_Number.0 - linenr 300000
+2022/02/23 13:14:01 - 表输出C_ID_Info.0 - linenr 400000
+2022/02/23 13:14:17 - 表输出C_LIFASSUR_Number.0 - linenr 300000
+2022/02/23 13:14:20 - 表输出C_Sales_Channel.0 - linenr 300000
+2022/02/23 13:14:23 - 表输入C_ID_Info.0 - linenr 450000
+2022/02/23 13:14:36 - 表输出C_ID_Info.0 - linenr 450000
+2022/02/23 13:14:38 - 表输入C_Industry_Occupation.0 - linenr 250000
+2022/02/23 13:14:48 - 表输入C_Sales_Channel.0 - linenr 350000
+2022/02/23 13:14:55 - 表输入C_LIFASSUR_Number.0 - linenr 350000
+2022/02/23 13:14:57 - 表输入C_ID_Info.0 - linenr 500000
+2022/02/23 13:15:02 - 表输出C_Industry_Occupation.0 - linenr 250000
+2022/02/23 13:15:07 - 表输出C_ID_Info.0 - linenr 500000
+2022/02/23 13:15:07 - 表输出C_Sales_Channel.0 - linenr 350000
+2022/02/23 13:15:13 - 表输出C_LIFASSUR_Number.0 - linenr 350000
+2022/02/23 13:15:38 - 表输入C_ID_Info.0 - linenr 550000
+2022/02/23 13:15:40 - 表输入C_Sales_Channel.0 - linenr 400000
+2022/02/23 13:15:42 - 表输入C_Industry_Occupation.0 - linenr 300000
+2022/02/23 13:15:45 - 表输入C_LIFASSUR_Number.0 - linenr 400000
+2022/02/23 13:15:46 - 表输出C_ID_Info.0 - linenr 550000
+2022/02/23 13:16:08 - 表输出C_Sales_Channel.0 - linenr 400000
+2022/02/23 13:16:08 - 表输出C_LIFASSUR_Number.0 - linenr 400000
+2022/02/23 13:16:12 - 表输出C_Industry_Occupation.0 - linenr 300000
+2022/02/23 13:16:14 - 表输入C_ID_Info.0 - linenr 600000
+2022/02/23 13:16:21 - 表输入C_Industry_Occupation.0 - Finished reading query, closing connection.
+2022/02/23 13:16:21 - 表输入C_Industry_Occupation.0 - 完成处理 (I=322601, O=0, R=0, W=322601, U=0, E=0
+2022/02/23 13:16:21 - 表输出C_ID_Info.0 - linenr 600000
+2022/02/23 13:16:37 - 表输入C_Sales_Channel.0 - linenr 450000
+2022/02/23 13:16:41 - 表输入C_LIFASSUR_Number.0 - linenr 450000
+2022/02/23 13:16:43 - 表输入C_ID_Info.0 - linenr 650000
+2022/02/23 13:16:44 - 表输出C_Industry_Occupation.0 - 完成处理 (I=0, O=322601, R=322601, W=322601, U=0, E=0
+2022/02/23 13:16:52 - 表输出C_Sales_Channel.0 - linenr 450000
+2022/02/23 13:16:54 - 表输出C_ID_Info.0 - linenr 650000
+2022/02/23 13:16:57 - 表输出C_LIFASSUR_Number.0 - linenr 450000
+2022/02/23 13:17:17 - 表输入C_ID_Info.0 - linenr 700000
+2022/02/23 13:17:18 - 表输入C_Sales_Channel.0 - linenr 500000
+2022/02/23 13:17:22 - 表输入C_LIFASSUR_Number.0 - linenr 500000
+2022/02/23 13:17:28 - 表输出C_ID_Info.0 - linenr 700000
+2022/02/23 13:17:40 - 表输出C_LIFASSUR_Number.0 - linenr 500000
+2022/02/23 13:17:40 - 表输出C_Sales_Channel.0 - linenr 500000
+2022/02/23 13:17:40 - 表输入C_Sales_Channel.0 - Finished reading query, closing connection.
+2022/02/23 13:17:40 - 表输入C_Sales_Channel.0 - 完成处理 (I=518158, O=0, R=0, W=518158, U=0, E=0
+2022/02/23 13:17:48 - 表输入C_ID_Info.0 - linenr 750000
+2022/02/23 13:17:56 - 表输出C_ID_Info.0 - linenr 750000
+2022/02/23 13:17:59 - 表输出C_Sales_Channel.0 - 完成处理 (I=0, O=518158, R=518158, W=518158, U=0, E=0
+2022/02/23 13:18:11 - 表输入C_LIFASSUR_Number.0 - Finished reading query, closing connection.
+2022/02/23 13:18:11 - 表输入C_LIFASSUR_Number.0 - 完成处理 (I=542669, O=0, R=0, W=542669, U=0, E=0
+2022/02/23 13:18:17 - 表输入C_ID_Info.0 - linenr 800000
+2022/02/23 13:18:24 - 表输出C_ID_Info.0 - linenr 800000
+2022/02/23 13:18:28 - 表输出C_LIFASSUR_Number.0 - 完成处理 (I=0, O=542669, R=542669, W=542669, U=0, E=0
+2022/02/23 13:18:44 - 表输入C_ID_Info.0 - linenr 850000
+2022/02/23 13:18:47 - 表输出C_ID_Info.0 - linenr 850000
+2022/02/23 13:19:09 - 表输入C_ID_Info.0 - linenr 900000
+2022/02/23 13:19:15 - 表输出C_ID_Info.0 - linenr 900000
+2022/02/23 13:19:34 - 表输入C_ID_Info.0 - linenr 950000
+2022/02/23 13:19:39 - 表输出C_ID_Info.0 - linenr 950000
+2022/02/23 13:19:53 - 表输入C_ID_Info.0 - linenr 1000000
+2022/02/23 13:20:01 - 表输出C_ID_Info.0 - linenr 1000000
+2022/02/23 13:20:14 - 表输入C_ID_Info.0 - linenr 1050000
+2022/02/23 13:20:24 - 表输出C_ID_Info.0 - linenr 1050000
+2022/02/23 13:20:38 - 表输入C_ID_Info.0 - linenr 1100000
+2022/02/23 13:20:48 - 表输出C_ID_Info.0 - linenr 1100000
+2022/02/23 13:21:02 - 表输入C_ID_Info.0 - linenr 1150000
+2022/02/23 13:21:10 - 表输出C_ID_Info.0 - linenr 1150000
+2022/02/23 13:21:26 - 表输入C_ID_Info.0 - linenr 1200000
+2022/02/23 13:21:35 - 表输出C_ID_Info.0 - linenr 1200000
+2022/02/23 13:21:49 - 表输入C_ID_Info.0 - linenr 1250000
+2022/02/23 13:21:55 - 表输出C_ID_Info.0 - linenr 1250000
+2022/02/23 13:22:11 - 表输入C_ID_Info.0 - linenr 1300000
+2022/02/23 13:22:18 - 表输出C_ID_Info.0 - linenr 1300000
+2022/02/23 13:22:32 - 表输入C_ID_Info.0 - linenr 1350000
+2022/02/23 13:22:40 - 表输出C_ID_Info.0 - linenr 1350000
+2022/02/23 13:22:50 - 表输入C_ID_Info.0 - Finished reading query, closing connection.
+2022/02/23 13:22:50 - 表输入C_ID_Info.0 - 完成处理 (I=1389752, O=0, R=0, W=1389752, U=0, E=0
+2022/02/23 13:22:58 - 表输出C_ID_Info.0 - 完成处理 (I=0, O=1389752, R=1389752, W=1389752, U=0, E=0
+2022/02/23 13:22:58 - JOB-YEWU - 开始项[dataTrans01-03]
+2022/02/23 13:22:58 - dataTrans01-03 - Loading transformation from XML file [file:///D:/data/ICP-RUITAI/project/aml-gitlab/document/kettle\dataTrans01-03.ktr]
+2022/02/23 13:22:58 - dataTrans01-03 - 为了转换解除补丁开始  [dataTrans01-03]
+2022/02/23 13:22:58 - 表输出C_Policy.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:22:58 - 表输出C_Party.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:22:58 - 表输出C_Policy_Relation.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:22:58 - 表输出C_Account.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 13:23:47 - 表输入C_Policy_Relation.0 - linenr 50000
+2022/02/23 13:24:11 - 表输出C_Policy_Relation.0 - linenr 50000
+2022/02/23 13:24:48 - 表输入C_Policy.0 - linenr 50000
+2022/02/23 13:25:01 - 表输入C_Policy_Relation.0 - linenr 100000
+2022/02/23 13:25:01 - 表输入C_Account.0 - linenr 50000
+2022/02/23 13:25:17 - 表输出C_Policy_Relation.0 - linenr 100000
+2022/02/23 13:25:32 - 表输入C_Party.0 - linenr 50000
+2022/02/23 13:25:39 - 表输出C_Policy.0 - linenr 50000
+2022/02/23 13:26:04 - 表输出C_Account.0 - linenr 50000
+2022/02/23 13:26:10 - 表输入C_Policy_Relation.0 - linenr 150000
+2022/02/23 13:26:36 - 表输出C_Policy_Relation.0 - linenr 150000
+2022/02/23 13:27:27 - 表输出C_Party.0 - linenr 50000
+2022/02/23 13:27:35 - 表输入C_Policy.0 - linenr 100000
+2022/02/23 13:27:37 - 表输入C_Policy_Relation.0 - linenr 200000
+2022/02/23 13:28:09 - 表输出C_Policy_Relation.0 - linenr 200000
+2022/02/23 13:28:25 - 表输出C_Policy.0 - linenr 100000
+2022/02/23 13:28:30 - 表输入C_Account.0 - linenr 100000
+2022/02/23 13:28:52 - 表输入C_Policy_Relation.0 - linenr 250000
+2022/02/23 13:29:13 - 表输出C_Policy_Relation.0 - linenr 250000
+2022/02/23 13:29:37 - 表输出C_Account.0 - linenr 100000
+2022/02/23 13:30:35 - 表输入C_Party.0 - linenr 100000
+2022/02/23 13:30:36 - 表输入C_Policy_Relation.0 - linenr 300000
+2022/02/23 13:30:36 - 表输入C_Policy.0 - linenr 150000
+2022/02/23 13:31:15 - 表输出C_Policy.0 - linenr 150000
+2022/02/23 13:31:15 - 表输出C_Party.0 - linenr 100000
+2022/02/23 13:31:17 - 表输出C_Policy_Relation.0 - linenr 300000
+2022/02/23 13:32:02 - 表输入C_Policy_Relation.0 - linenr 350000
+2022/02/23 13:32:23 - 表输出C_Policy_Relation.0 - linenr 350000
+2022/02/23 13:32:28 - 表输入C_Account.0 - linenr 150000
+2022/02/23 13:33:25 - 表输入C_Policy_Relation.0 - linenr 400000
+2022/02/23 13:33:26 - 表输入C_Policy.0 - linenr 200000
+2022/02/23 13:33:34 - 表输出C_Account.0 - linenr 150000
+2022/02/23 13:33:43 - 表输入C_Party.0 - linenr 150000
+2022/02/23 13:34:02 - 表输出C_Policy_Relation.0 - linenr 400000
+2022/02/23 13:34:30 - 表输出C_Policy.0 - linenr 200000
+2022/02/23 13:34:48 - 表输出C_Party.0 - linenr 150000
+2022/02/23 13:34:59 - 表输入C_Policy_Relation.0 - linenr 450000
+2022/02/23 13:35:16 - 表输出C_Policy_Relation.0 - linenr 450000
+2022/02/23 13:35:38 - 表输入C_Account.0 - linenr 200000
+2022/02/23 13:36:21 - 表输入C_Policy_Relation.0 - linenr 500000
+2022/02/23 13:36:26 - 表输入C_Policy.0 - linenr 250000
+2022/02/23 13:36:34 - 表输出C_Account.0 - linenr 200000
+2022/02/23 13:36:40 - 表输出C_Policy_Relation.0 - linenr 500000
+2022/02/23 13:36:41 - 表输入C_Party.0 - linenr 200000
+2022/02/23 13:37:21 - 表输出C_Policy.0 - linenr 250000
+2022/02/23 13:37:23 - 表输入C_Policy_Relation.0 - Finished reading query, closing connection.
+2022/02/23 13:37:26 - 表输入C_Policy_Relation.0 - 完成处理 (I=545951, O=0, R=0, W=545951, U=0, E=0
+2022/02/23 13:37:52 - 表输出C_Policy_Relation.0 - 完成处理 (I=0, O=545951, R=545951, W=545951, U=0, E=0
+2022/02/23 13:37:55 - 表输出C_Party.0 - linenr 200000
+2022/02/23 13:38:33 - 表输入C_Account.0 - linenr 250000
+2022/02/23 13:39:02 - 表输入C_Policy.0 - linenr 300000
+2022/02/23 13:39:19 - 表输出C_Account.0 - linenr 250000
+2022/02/23 13:39:33 - 表输出C_Policy.0 - linenr 300000
+2022/02/23 13:39:36 - 表输入C_Party.0 - linenr 250000
+2022/02/23 13:40:15 - 表输出C_Party.0 - linenr 250000
+2022/02/23 13:40:34 - 表输入C_Account.0 - linenr 300000
+2022/02/23 13:41:04 - 表输出C_Account.0 - linenr 300000
+2022/02/23 13:41:07 - 表输入C_Policy.0 - linenr 350000
+2022/02/23 13:41:52 - 表输入C_Party.0 - linenr 300000
+2022/02/23 13:42:17 - 表输出C_Policy.0 - linenr 350000
+2022/02/23 13:42:19 - 表输入C_Account.0 - linenr 350000
+2022/02/23 13:42:31 - 表输出C_Party.0 - linenr 300000
+2022/02/23 13:42:44 - 表输出C_Account.0 - linenr 350000
+2022/02/23 13:43:52 - 表输入C_Party.0 - linenr 350000
+2022/02/23 13:43:52 - 表输入C_Account.0 - linenr 400000
+2022/02/23 13:44:03 - 表输入C_Policy.0 - linenr 400000
+2022/02/23 13:44:18 - 表输出C_Account.0 - linenr 400000
+2022/02/23 13:44:49 - 表输出C_Party.0 - linenr 350000
+2022/02/23 13:44:51 - 表输出C_Policy.0 - linenr 400000
+2022/02/23 13:45:43 - 表输入C_Account.0 - linenr 450000
+2022/02/23 13:46:08 - 表输入C_Party.0 - linenr 400000
+2022/02/23 13:46:21 - 表输出C_Account.0 - linenr 450000
+2022/02/23 13:46:22 - 表输入C_Policy.0 - linenr 450000
+2022/02/23 13:46:49 - 表输入C_Policy.0 - Finished reading query, closing connection.
+2022/02/23 13:46:53 - 表输入C_Policy.0 - 完成处理 (I=454988, O=0, R=0, W=454988, U=0, E=0
+2022/02/23 13:46:54 - 表输出C_Party.0 - linenr 400000
+2022/02/23 13:47:20 - 表输出C_Policy.0 - linenr 450000
+2022/02/23 13:47:40 - 表输入C_Account.0 - linenr 500000
+2022/02/23 13:47:41 - 表输出C_Policy.0 - 完成处理 (I=0, O=454988, R=454988, W=454988, U=0, E=0
+2022/02/23 13:47:54 - 表输入C_Party.0 - linenr 450000
+2022/02/23 13:48:05 - 表输出C_Account.0 - linenr 500000
+2022/02/23 13:48:09 - 表输出C_Party.0 - linenr 450000
+2022/02/23 13:48:59 - 表输入C_Party.0 - linenr 500000
+2022/02/23 13:49:11 - 表输入C_Account.0 - linenr 550000
+2022/02/23 13:49:19 - 表输出C_Party.0 - linenr 500000
+2022/02/23 13:49:36 - 表输出C_Account.0 - linenr 550000
+2022/02/23 13:49:59 - 表输入C_Party.0 - linenr 550000
+2022/02/23 13:50:22 - 表输出C_Party.0 - linenr 550000
+2022/02/23 13:50:38 - 表输入C_Account.0 - linenr 600000
+2022/02/23 13:51:01 - 表输出C_Account.0 - linenr 600000
+2022/02/23 13:51:27 - 表输入C_Party.0 - linenr 600000
+2022/02/23 13:51:40 - 表输出C_Party.0 - linenr 600000
+2022/02/23 13:51:56 - 表输入C_Account.0 - linenr 650000
+2022/02/23 13:52:15 - 表输出C_Account.0 - linenr 650000
+2022/02/23 13:52:25 - 表输入C_Party.0 - linenr 650000
+2022/02/23 13:52:43 - 表输出C_Party.0 - linenr 650000
+2022/02/23 13:53:14 - 表输入C_Account.0 - linenr 700000
+2022/02/23 13:53:29 - 表输入C_Party.0 - linenr 700000
+2022/02/23 13:53:39 - 表输出C_Account.0 - linenr 700000
+2022/02/23 13:53:46 - 表输出C_Party.0 - linenr 700000
+2022/02/23 13:54:36 - 表输入C_Account.0 - linenr 750000
+2022/02/23 13:54:41 - 表输出C_Account.0 - linenr 750000
+2022/02/23 13:54:42 - 表输入C_Party.0 - linenr 750000
+2022/02/23 13:55:21 - 表输入C_Account.0 - linenr 800000
+2022/02/23 13:55:27 - 表输出C_Party.0 - linenr 750000
+2022/02/23 13:55:32 - 表输出C_Account.0 - linenr 800000
+2022/02/23 13:56:19 - 表输入C_Party.0 - linenr 800000
+2022/02/23 13:56:34 - 表输入C_Account.0 - linenr 850000
+2022/02/23 13:56:44 - 表输出C_Account.0 - linenr 850000
+2022/02/23 13:56:46 - 表输出C_Party.0 - linenr 800000
+2022/02/23 13:57:21 - 表输入C_Account.0 - linenr 900000
+2022/02/23 13:57:34 - 表输出C_Account.0 - linenr 900000
+2022/02/23 13:57:48 - 表输入C_Party.0 - linenr 850000
+2022/02/23 13:58:13 - 表输出C_Party.0 - linenr 850000
+2022/02/23 13:58:26 - 表输入C_Account.0 - linenr 950000
+2022/02/23 13:58:42 - 表输出C_Account.0 - linenr 950000
+2022/02/23 13:59:02 - 表输入C_Party.0 - linenr 900000
+2022/02/23 13:59:23 - 表输出C_Party.0 - linenr 900000
+2022/02/23 13:59:42 - 表输入C_Account.0 - linenr 1000000
+2022/02/23 14:00:04 - 表输入C_Party.0 - linenr 950000
+2022/02/23 14:00:13 - 表输出C_Account.0 - linenr 1000000
+2022/02/23 14:00:17 - 表输出C_Party.0 - linenr 950000
+2022/02/23 14:00:55 - 表输入C_Party.0 - linenr 1000000
+2022/02/23 14:01:18 - 表输出C_Party.0 - linenr 1000000
+2022/02/23 14:01:23 - 表输入C_Account.0 - linenr 1050000
+2022/02/23 14:01:49 - 表输出C_Account.0 - linenr 1050000
+2022/02/23 14:02:00 - 表输入C_Party.0 - linenr 1050000
+2022/02/23 14:02:18 - 表输出C_Party.0 - linenr 1050000
+2022/02/23 14:02:38 - 表输入C_Account.0 - linenr 1100000
+2022/02/23 14:03:00 - 表输入C_Party.0 - linenr 1100000
+2022/02/23 14:03:06 - 表输出C_Account.0 - linenr 1100000
+2022/02/23 14:03:25 - 表输出C_Party.0 - linenr 1100000
+2022/02/23 14:04:01 - 表输入C_Party.0 - linenr 1150000
+2022/02/23 14:04:20 - 表输入C_Account.0 - linenr 1150000
+2022/02/23 14:04:26 - 表输出C_Party.0 - linenr 1150000
+2022/02/23 14:04:32 - 表输出C_Account.0 - linenr 1150000
+2022/02/23 14:05:13 - 表输入C_Account.0 - linenr 1200000
+2022/02/23 14:05:13 - 表输入C_Party.0 - linenr 1200000
+2022/02/23 14:05:30 - 表输出C_Account.0 - linenr 1200000
+2022/02/23 14:05:48 - 表输出C_Party.0 - linenr 1200000
+2022/02/23 14:06:19 - 表输入C_Account.0 - linenr 1250000
+2022/02/23 14:06:33 - 表输入C_Party.0 - linenr 1250000
+2022/02/23 14:06:35 - 表输出C_Account.0 - linenr 1250000
+2022/02/23 14:06:53 - 表输出C_Party.0 - linenr 1250000
+2022/02/23 14:07:33 - 表输入C_Account.0 - linenr 1300000
+2022/02/23 14:07:33 - 表输入C_Party.0 - linenr 1300000
+2022/02/23 14:07:51 - 表输出C_Account.0 - linenr 1300000
+2022/02/23 14:07:58 - 表输出C_Party.0 - linenr 1300000
+2022/02/23 14:08:37 - 表输入C_Party.0 - linenr 1350000
+2022/02/23 14:08:55 - 表输入C_Account.0 - linenr 1350000
+2022/02/23 14:09:00 - 表输出C_Party.0 - linenr 1350000
+2022/02/23 14:09:18 - 表输出C_Account.0 - linenr 1350000
+2022/02/23 14:09:40 - 表输入C_Party.0 - linenr 1400000
+2022/02/23 14:10:12 - 表输出C_Party.0 - linenr 1400000
+2022/02/23 14:10:12 - 表输入C_Account.0 - linenr 1400000
+2022/02/23 14:10:28 - 表输出C_Account.0 - linenr 1400000
+2022/02/23 14:10:55 - 表输入C_Party.0 - linenr 1450000
+2022/02/23 14:11:11 - 表输出C_Party.0 - linenr 1450000
+2022/02/23 14:11:28 - 表输入C_Account.0 - linenr 1450000
+2022/02/23 14:11:45 - 表输出C_Account.0 - linenr 1450000
+2022/02/23 14:11:54 - 表输入C_Party.0 - linenr 1500000
+2022/02/23 14:12:19 - 表输出C_Party.0 - linenr 1500000
+2022/02/23 14:13:18 - 表输入C_Party.0 - linenr 1550000
+2022/02/23 14:13:20 - 表输入C_Account.0 - linenr 1500000
+2022/02/23 14:13:29 - 表输出C_Party.0 - linenr 1550000
+2022/02/23 14:13:56 - 表输出C_Account.0 - linenr 1500000
+2022/02/23 14:14:08 - 表输入C_Party.0 - linenr 1600000
+2022/02/23 14:14:29 - 表输出C_Party.0 - linenr 1600000
+2022/02/23 14:14:58 - 表输入C_Account.0 - linenr 1550000
+2022/02/23 14:15:07 - 表输入C_Party.0 - linenr 1650000
+2022/02/23 14:15:24 - 表输出C_Party.0 - linenr 1650000
+2022/02/23 14:15:26 - 表输出C_Account.0 - linenr 1550000
+2022/02/23 14:16:12 - 表输入C_Account.0 - linenr 1600000
+2022/02/23 14:16:12 - 表输入C_Party.0 - linenr 1700000
+2022/02/23 14:16:37 - 表输出C_Party.0 - linenr 1700000
+2022/02/23 14:16:40 - 表输出C_Account.0 - linenr 1600000
+2022/02/23 14:17:15 - 表输入C_Party.0 - linenr 1750000
+2022/02/23 14:17:34 - 表输出C_Party.0 - linenr 1750000
+2022/02/23 14:17:34 - 表输入C_Account.0 - linenr 1650000
+2022/02/23 14:18:21 - 表输入C_Party.0 - linenr 1800000
+2022/02/23 14:18:25 - 表输出C_Account.0 - linenr 1650000
+2022/02/23 14:18:32 - 表输出C_Party.0 - linenr 1800000
+2022/02/23 14:19:21 - 表输入C_Party.0 - linenr 1850000
+2022/02/23 14:19:34 - 表输入C_Party.0 - Finished reading query, closing connection.
+2022/02/23 14:19:34 - 表输入C_Party.0 - 完成处理 (I=1857563, O=0, R=0, W=1857563, U=0, E=0
+2022/02/23 14:19:37 - 表输入C_Account.0 - linenr 1700000
+2022/02/23 14:19:45 - 表输出C_Party.0 - linenr 1850000
+2022/02/23 14:19:53 - 表输出C_Party.0 - 完成处理 (I=0, O=1857563, R=1857563, W=1857563, U=0, E=0
+2022/02/23 14:20:00 - 表输出C_Account.0 - linenr 1700000
+2022/02/23 14:20:19 - 表输入C_Account.0 - linenr 1750000
+2022/02/23 14:20:30 - 表输出C_Account.0 - linenr 1750000
+2022/02/23 14:20:55 - 表输入C_Account.0 - linenr 1800000
+2022/02/23 14:21:02 - 表输出C_Account.0 - linenr 1800000
+2022/02/23 14:21:31 - 表输入C_Account.0 - linenr 1850000
+2022/02/23 14:21:34 - 表输出C_Account.0 - linenr 1850000
+2022/02/23 14:21:49 - 表输入C_Account.0 - linenr 1900000
+2022/02/23 14:21:53 - 表输出C_Account.0 - linenr 1900000
+2022/02/23 14:22:17 - 表输入C_Account.0 - linenr 1950000
+2022/02/23 14:22:23 - 表输出C_Account.0 - linenr 1950000
+2022/02/23 14:22:42 - 表输入C_Account.0 - linenr 2000000
+2022/02/23 14:22:49 - 表输出C_Account.0 - linenr 2000000
+2022/02/23 14:23:20 - 表输入C_Account.0 - linenr 2050000
+2022/02/23 14:23:26 - 表输出C_Account.0 - linenr 2050000
+2022/02/23 14:23:53 - 表输入C_Account.0 - linenr 2100000
+2022/02/23 14:24:06 - 表输出C_Account.0 - linenr 2100000
+2022/02/23 14:24:29 - 表输入C_Account.0 - linenr 2150000
+2022/02/23 14:24:32 - 表输出C_Account.0 - linenr 2150000
+2022/02/23 14:24:52 - 表输入C_Account.0 - linenr 2200000
+2022/02/23 14:24:56 - 表输出C_Account.0 - linenr 2200000
+2022/02/23 14:25:23 - 表输入C_Account.0 - linenr 2250000
+2022/02/23 14:25:29 - 表输出C_Account.0 - linenr 2250000
+2022/02/23 14:25:54 - 表输入C_Account.0 - linenr 2300000
+2022/02/23 14:25:57 - 表输出C_Account.0 - linenr 2300000
+2022/02/23 14:26:21 - 表输入C_Account.0 - linenr 2350000
+2022/02/23 14:26:25 - 表输出C_Account.0 - linenr 2350000
+2022/02/23 14:26:45 - 表输入C_Account.0 - Finished reading query, closing connection.
+2022/02/23 14:26:45 - 表输入C_Account.0 - 完成处理 (I=2388496, O=0, R=0, W=2388496, U=0, E=0
+2022/02/23 14:26:46 - 表输出C_Account.0 - 完成处理 (I=0, O=2388496, R=2388496, W=2388496, U=0, E=0
+2022/02/23 14:26:46 - JOB-YEWU - 开始项[dataTrans01-04]
+2022/02/23 14:26:46 - dataTrans01-04 - Loading transformation from XML file [file:///D:/data/ICP-RUITAI/project/aml-gitlab/document/kettle\dataTrans01-04.ktr]
+2022/02/23 14:26:47 - dataTrans01-04 - 为了转换解除补丁开始  [dataTrans01-04]
+2022/02/23 14:26:47 - 表输出C_ActualPayment.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 14:26:47 - 表输出C_Payment.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 14:27:47 - 表输入C_Payment.0 - linenr 50000
+2022/02/23 14:27:54 - 表输出C_Payment.0 - linenr 50000
+2022/02/23 14:28:00 - 表输入C_ActualPayment.0 - linenr 50000
+2022/02/23 14:28:24 - 表输出C_ActualPayment.0 - linenr 50000
+2022/02/23 14:29:00 - 表输入C_Payment.0 - linenr 100000
+2022/02/23 14:29:10 - 表输出C_Payment.0 - linenr 100000
+2022/02/23 14:29:41 - 表输入C_ActualPayment.0 - linenr 100000
+2022/02/23 14:29:49 - 表输出C_ActualPayment.0 - linenr 100000
+2022/02/23 14:30:19 - 表输入C_Payment.0 - linenr 150000
+2022/02/23 14:30:26 - 表输出C_Payment.0 - linenr 150000
+2022/02/23 14:30:55 - 表输入C_ActualPayment.0 - linenr 150000
+2022/02/23 14:31:11 - 表输出C_ActualPayment.0 - linenr 150000
+2022/02/23 14:31:41 - 表输入C_Payment.0 - linenr 200000
+2022/02/23 14:31:52 - 表输出C_Payment.0 - linenr 200000
+2022/02/23 14:32:27 - 表输入C_ActualPayment.0 - linenr 200000
+2022/02/23 14:32:42 - 表输出C_ActualPayment.0 - linenr 200000
+2022/02/23 14:33:00 - 表输入C_Payment.0 - linenr 250000
+2022/02/23 14:33:11 - 表输出C_Payment.0 - linenr 250000
+2022/02/23 14:33:46 - 表输入C_ActualPayment.0 - linenr 250000
+2022/02/23 14:34:08 - 表输出C_ActualPayment.0 - linenr 250000
+2022/02/23 14:34:16 - 表输入C_Payment.0 - linenr 300000
+2022/02/23 14:34:24 - 表输出C_Payment.0 - linenr 300000
+2022/02/23 14:35:20 - 表输入C_ActualPayment.0 - linenr 300000
+2022/02/23 14:35:30 - 表输出C_ActualPayment.0 - linenr 300000
+2022/02/23 14:35:36 - 表输入C_Payment.0 - linenr 350000
+2022/02/23 14:36:00 - 表输出C_Payment.0 - linenr 350000
+2022/02/23 14:36:34 - 表输入C_ActualPayment.0 - linenr 350000
+2022/02/23 14:36:44 - 表输出C_ActualPayment.0 - linenr 350000
+2022/02/23 14:37:19 - 表输入C_Payment.0 - linenr 400000
+2022/02/23 14:37:39 - 表输出C_Payment.0 - linenr 400000
+2022/02/23 14:37:39 - 表输入C_ActualPayment.0 - linenr 400000
+2022/02/23 14:37:48 - 表输出C_ActualPayment.0 - linenr 400000
+2022/02/23 14:38:37 - 表输入C_Payment.0 - linenr 450000
+2022/02/23 14:38:50 - 表输出C_Payment.0 - linenr 450000
+2022/02/23 14:38:55 - 表输入C_ActualPayment.0 - linenr 450000
+2022/02/23 14:39:06 - 表输出C_ActualPayment.0 - linenr 450000
+2022/02/23 14:39:53 - 表输入C_Payment.0 - linenr 500000
+2022/02/23 14:40:09 - 表输入C_ActualPayment.0 - linenr 500000
+2022/02/23 14:40:18 - 表输出C_Payment.0 - linenr 500000
+2022/02/23 14:40:22 - 表输出C_ActualPayment.0 - linenr 500000
+2022/02/23 14:41:11 - 表输入C_ActualPayment.0 - linenr 550000
+2022/02/23 14:41:23 - 表输出C_ActualPayment.0 - linenr 550000
+2022/02/23 14:41:26 - 表输入C_Payment.0 - linenr 550000
+2022/02/23 14:41:56 - 表输出C_Payment.0 - linenr 550000
+2022/02/23 14:42:26 - 表输入C_ActualPayment.0 - linenr 600000
+2022/02/23 14:42:36 - 表输出C_ActualPayment.0 - linenr 600000
+2022/02/23 14:43:03 - 表输入C_Payment.0 - linenr 600000
+2022/02/23 14:43:29 - 表输入C_ActualPayment.0 - linenr 650000
+2022/02/23 14:43:39 - 表输出C_ActualPayment.0 - linenr 650000
+2022/02/23 14:43:40 - 表输出C_Payment.0 - linenr 600000
+2022/02/23 14:44:49 - 表输入C_ActualPayment.0 - linenr 700000
+2022/02/23 14:44:52 - 表输入C_Payment.0 - linenr 650000
+2022/02/23 14:45:02 - 表输出C_ActualPayment.0 - linenr 700000
+2022/02/23 14:45:09 - 表输出C_Payment.0 - linenr 650000
+2022/02/23 14:46:21 - 表输入C_ActualPayment.0 - linenr 750000
+2022/02/23 14:46:28 - 表输出C_ActualPayment.0 - linenr 750000
+2022/02/23 14:46:31 - 表输入C_Payment.0 - linenr 700000
+2022/02/23 14:46:46 - 表输出C_Payment.0 - linenr 700000
+2022/02/23 14:47:33 - 表输入C_ActualPayment.0 - linenr 800000
+2022/02/23 14:47:45 - 表输出C_ActualPayment.0 - linenr 800000
+2022/02/23 14:47:59 - 表输入C_Payment.0 - linenr 750000
+2022/02/23 14:48:09 - 表输出C_Payment.0 - linenr 750000
+2022/02/23 14:48:55 - 表输入C_Payment.0 - linenr 800000
+2022/02/23 14:49:09 - 表输出C_Payment.0 - linenr 800000
+2022/02/23 14:49:13 - 表输入C_ActualPayment.0 - linenr 850000
+2022/02/23 14:49:48 - 表输出C_ActualPayment.0 - linenr 850000
+2022/02/23 14:49:55 - 表输入C_Payment.0 - linenr 850000
+2022/02/23 14:50:06 - 表输出C_Payment.0 - linenr 850000
+2022/02/23 14:51:11 - 表输入C_ActualPayment.0 - linenr 900000
+2022/02/23 14:51:21 - 表输入C_Payment.0 - linenr 900000
+2022/02/23 14:51:29 - 表输出C_Payment.0 - linenr 900000
+2022/02/23 14:51:30 - 表输出C_ActualPayment.0 - linenr 900000
+2022/02/23 14:52:34 - 表输入C_ActualPayment.0 - linenr 950000
+2022/02/23 14:52:37 - 表输入C_Payment.0 - linenr 950000
+2022/02/23 14:52:48 - 表输出C_ActualPayment.0 - linenr 950000
+2022/02/23 14:52:49 - 表输出C_Payment.0 - linenr 950000
+2022/02/23 14:53:43 - 表输入C_Payment.0 - linenr 1000000
+2022/02/23 14:53:51 - 表输出C_Payment.0 - linenr 1000000
+2022/02/23 14:53:56 - 表输入C_ActualPayment.0 - linenr 1000000
+2022/02/23 14:54:11 - 表输出C_ActualPayment.0 - linenr 1000000
+2022/02/23 14:55:08 - 表输入C_ActualPayment.0 - linenr 1050000
+2022/02/23 14:55:19 - 表输出C_ActualPayment.0 - linenr 1050000
+2022/02/23 14:55:19 - 表输入C_Payment.0 - linenr 1050000
+2022/02/23 14:55:28 - 表输出C_Payment.0 - linenr 1050000
+2022/02/23 14:56:23 - 表输入C_ActualPayment.0 - linenr 1100000
+2022/02/23 14:56:35 - 表输入C_Payment.0 - linenr 1100000
+2022/02/23 14:56:44 - 表输出C_Payment.0 - linenr 1100000
+2022/02/23 14:56:49 - 表输出C_ActualPayment.0 - linenr 1100000
+2022/02/23 14:57:56 - 表输入C_ActualPayment.0 - linenr 1150000
+2022/02/23 14:57:56 - 表输入C_Payment.0 - linenr 1150000
+2022/02/23 14:58:08 - 表输出C_Payment.0 - linenr 1150000
+2022/02/23 14:58:12 - 表输出C_ActualPayment.0 - linenr 1150000
+2022/02/23 14:59:35 - 表输入C_ActualPayment.0 - linenr 1200000
+2022/02/23 14:59:35 - 表输入C_Payment.0 - linenr 1200000
+2022/02/23 14:59:43 - 表输出C_Payment.0 - linenr 1200000
+2022/02/23 14:59:45 - 表输出C_ActualPayment.0 - linenr 1200000
+2022/02/23 15:00:56 - 表输入C_Payment.0 - linenr 1250000
+2022/02/23 15:00:56 - 表输入C_ActualPayment.0 - linenr 1250000
+2022/02/23 15:01:08 - 表输出C_Payment.0 - linenr 1250000
+2022/02/23 15:01:11 - 表输出C_ActualPayment.0 - linenr 1250000
+2022/02/23 15:02:21 - 表输入C_ActualPayment.0 - linenr 1300000
+2022/02/23 15:02:25 - 表输入C_Payment.0 - linenr 1300000
+2022/02/23 15:02:33 - 表输出C_Payment.0 - linenr 1300000
+2022/02/23 15:02:37 - 表输出C_ActualPayment.0 - linenr 1300000
+2022/02/23 15:03:54 - 表输入C_Payment.0 - linenr 1350000
+2022/02/23 15:03:55 - 表输入C_ActualPayment.0 - linenr 1350000
+2022/02/23 15:04:11 - 表输出C_Payment.0 - linenr 1350000
+2022/02/23 15:04:25 - 表输出C_ActualPayment.0 - linenr 1350000
+2022/02/23 15:05:42 - 表输入C_Payment.0 - linenr 1400000
+2022/02/23 15:05:56 - 表输出C_Payment.0 - linenr 1400000
+2022/02/23 15:06:14 - 表输入C_ActualPayment.0 - linenr 1400000
+2022/02/23 15:06:37 - 表输出C_ActualPayment.0 - linenr 1400000
+2022/02/23 15:06:53 - 表输入C_Payment.0 - linenr 1450000
+2022/02/23 15:07:01 - 表输出C_Payment.0 - linenr 1450000
+2022/02/23 15:07:51 - 表输入C_ActualPayment.0 - linenr 1450000
+2022/02/23 15:08:04 - 表输入C_Payment.0 - linenr 1500000
+2022/02/23 15:08:20 - 表输出C_Payment.0 - linenr 1500000
+2022/02/23 15:08:27 - 表输出C_ActualPayment.0 - linenr 1450000
+2022/02/23 15:09:35 - 表输入C_Payment.0 - linenr 1550000
+2022/02/23 15:09:42 - 表输入C_ActualPayment.0 - linenr 1500000
+2022/02/23 15:09:49 - 表输出C_Payment.0 - linenr 1550000
+2022/02/23 15:10:06 - 表输出C_ActualPayment.0 - linenr 1500000
+2022/02/23 15:11:12 - 表输入C_Payment.0 - linenr 1600000
+2022/02/23 15:11:14 - 表输入C_ActualPayment.0 - linenr 1550000
+2022/02/23 15:11:28 - 表输出C_Payment.0 - linenr 1600000
+2022/02/23 15:11:41 - 表输出C_ActualPayment.0 - linenr 1550000
+2022/02/23 15:12:41 - 表输入C_Payment.0 - linenr 1650000
+2022/02/23 15:12:48 - 表输出C_Payment.0 - linenr 1650000
+2022/02/23 15:12:54 - 表输入C_ActualPayment.0 - linenr 1600000
+2022/02/23 15:13:11 - 表输出C_ActualPayment.0 - linenr 1600000
+2022/02/23 15:14:08 - 表输入C_Payment.0 - linenr 1700000
+2022/02/23 15:14:20 - 表输出C_Payment.0 - linenr 1700000
+2022/02/23 15:14:31 - 表输入C_ActualPayment.0 - linenr 1650000
+2022/02/23 15:14:48 - 表输出C_ActualPayment.0 - linenr 1650000
+2022/02/23 15:15:34 - 表输入C_Payment.0 - linenr 1750000
+2022/02/23 15:15:46 - 表输出C_Payment.0 - linenr 1750000
+2022/02/23 15:16:13 - 表输入C_ActualPayment.0 - linenr 1700000
+2022/02/23 15:16:42 - 表输入C_Payment.0 - linenr 1800000
+2022/02/23 15:16:51 - 表输出C_Payment.0 - linenr 1800000
+2022/02/23 15:17:00 - 表输出C_ActualPayment.0 - linenr 1700000
+2022/02/23 15:17:58 - 表输入C_Payment.0 - linenr 1850000
+2022/02/23 15:18:08 - 表输出C_Payment.0 - linenr 1850000
+2022/02/23 15:18:17 - 表输入C_ActualPayment.0 - linenr 1750000
+2022/02/23 15:18:46 - 表输出C_ActualPayment.0 - linenr 1750000
+2022/02/23 15:19:07 - 表输入C_Payment.0 - linenr 1900000
+2022/02/23 15:19:17 - 表输出C_Payment.0 - linenr 1900000
+2022/02/23 15:20:03 - 表输入C_ActualPayment.0 - linenr 1800000
+2022/02/23 15:20:34 - 表输出C_ActualPayment.0 - linenr 1800000
+2022/02/23 15:20:37 - 表输入C_Payment.0 - linenr 1950000
+2022/02/23 15:20:48 - 表输出C_Payment.0 - linenr 1950000
+2022/02/23 15:21:57 - 表输入C_ActualPayment.0 - linenr 1850000
+2022/02/23 15:22:03 - 表输入C_Payment.0 - linenr 2000000
+2022/02/23 15:22:12 - 表输出C_Payment.0 - linenr 2000000
+2022/02/23 15:22:13 - 表输出C_ActualPayment.0 - linenr 1850000
+2022/02/23 15:23:13 - 表输入C_Payment.0 - linenr 2050000
+2022/02/23 15:23:22 - 表输出C_Payment.0 - linenr 2050000
+2022/02/23 15:23:35 - 表输入C_ActualPayment.0 - linenr 1900000
+2022/02/23 15:24:13 - 表输出C_ActualPayment.0 - linenr 1900000
+2022/02/23 15:24:24 - 表输入C_Payment.0 - linenr 2100000
+2022/02/23 15:24:32 - 表输出C_Payment.0 - linenr 2100000
+2022/02/23 15:25:40 - 表输入C_Payment.0 - linenr 2150000
+2022/02/23 15:25:41 - 表输入C_ActualPayment.0 - linenr 1950000
+2022/02/23 15:25:49 - 表输出C_Payment.0 - linenr 2150000
+2022/02/23 15:26:09 - 表输出C_ActualPayment.0 - linenr 1950000
+2022/02/23 15:26:46 - 表输入C_Payment.0 - linenr 2200000
+2022/02/23 15:27:02 - 表输出C_Payment.0 - linenr 2200000
+2022/02/23 15:27:35 - 表输入C_ActualPayment.0 - linenr 2000000
+2022/02/23 15:27:55 - 表输入C_Payment.0 - linenr 2250000
+2022/02/23 15:27:58 - 表输出C_ActualPayment.0 - linenr 2000000
+2022/02/23 15:28:19 - 表输出C_Payment.0 - linenr 2250000
+2022/02/23 15:29:08 - 表输入C_ActualPayment.0 - linenr 2050000
+2022/02/23 15:29:31 - 表输出C_ActualPayment.0 - linenr 2050000
+2022/02/23 15:29:31 - 表输入C_Payment.0 - linenr 2300000
+2022/02/23 15:29:51 - 表输出C_Payment.0 - linenr 2300000
+2022/02/23 15:31:17 - 表输入C_ActualPayment.0 - linenr 2100000
+2022/02/23 15:31:53 - 表输出C_ActualPayment.0 - linenr 2100000
+2022/02/23 15:32:46 - 表输入C_Payment.0 - linenr 2350000
+2022/02/23 15:32:59 - 表输入C_ActualPayment.0 - linenr 2150000
+2022/02/23 15:33:20 - 表输出C_Payment.0 - linenr 2350000
+2022/02/23 15:33:28 - 表输出C_ActualPayment.0 - linenr 2150000
+2022/02/23 15:34:51 - 表输入C_ActualPayment.0 - linenr 2200000
+2022/02/23 15:34:58 - 表输入C_Payment.0 - linenr 2400000
+2022/02/23 15:35:15 - 表输出C_ActualPayment.0 - linenr 2200000
+2022/02/23 15:35:19 - 表输出C_Payment.0 - linenr 2400000
+2022/02/23 15:36:00 - 表输入C_ActualPayment.0 - linenr 2250000
+2022/02/23 15:36:26 - 表输出C_ActualPayment.0 - linenr 2250000
+2022/02/23 15:36:49 - 表输入C_Payment.0 - linenr 2450000
+2022/02/23 15:37:02 - 表输出C_Payment.0 - linenr 2450000
+2022/02/23 15:37:14 - 表输入C_ActualPayment.0 - linenr 2300000
+2022/02/23 15:37:42 - 表输出C_ActualPayment.0 - linenr 2300000
+2022/02/23 15:38:12 - 表输入C_Payment.0 - linenr 2500000
+2022/02/23 15:38:35 - 表输出C_Payment.0 - linenr 2500000
+2022/02/23 15:38:35 - 表输入C_ActualPayment.0 - linenr 2350000
+2022/02/23 15:39:19 - 表输出C_ActualPayment.0 - linenr 2350000
+2022/02/23 15:39:51 - 表输入C_Payment.0 - linenr 2550000
+2022/02/23 15:40:21 - 表输出C_Payment.0 - linenr 2550000
+2022/02/23 15:40:25 - 表输入C_ActualPayment.0 - linenr 2400000
+2022/02/23 15:40:57 - 表输出C_ActualPayment.0 - linenr 2400000
+2022/02/23 15:41:22 - 表输入C_Payment.0 - linenr 2600000
+2022/02/23 15:41:30 - 表输出C_Payment.0 - linenr 2600000
+2022/02/23 15:41:53 - 表输入C_ActualPayment.0 - linenr 2450000
+2022/02/23 15:42:18 - 表输入C_Payment.0 - linenr 2650000
+2022/02/23 15:42:19 - 表输出C_ActualPayment.0 - linenr 2450000
+2022/02/23 15:42:38 - 表输出C_Payment.0 - linenr 2650000
+2022/02/23 15:43:01 - 表输入C_ActualPayment.0 - linenr 2500000
+2022/02/23 15:43:23 - 表输出C_ActualPayment.0 - linenr 2500000
+2022/02/23 15:44:00 - 表输入C_Payment.0 - linenr 2700000
+2022/02/23 15:44:07 - 表输出C_Payment.0 - linenr 2700000
+2022/02/23 15:44:15 - 表输入C_ActualPayment.0 - linenr 2550000
+2022/02/23 15:44:44 - 表输出C_ActualPayment.0 - linenr 2550000
+2022/02/23 15:45:27 - 表输入C_ActualPayment.0 - linenr 2600000
+2022/02/23 15:45:51 - 表输入C_Payment.0 - linenr 2750000
+2022/02/23 15:45:59 - 表输出C_Payment.0 - linenr 2750000
+2022/02/23 15:45:59 - 表输出C_ActualPayment.0 - linenr 2600000
+2022/02/23 15:46:51 - 表输入C_ActualPayment.0 - linenr 2650000
+2022/02/23 15:47:13 - 表输出C_ActualPayment.0 - linenr 2650000
+2022/02/23 15:47:43 - 表输入C_Payment.0 - linenr 2800000
+2022/02/23 15:47:46 - 表输入C_ActualPayment.0 - linenr 2700000
+2022/02/23 15:48:03 - 表输出C_ActualPayment.0 - linenr 2700000
+2022/02/23 15:48:08 - 表输出C_Payment.0 - linenr 2800000
+2022/02/23 15:48:34 - 表输入C_ActualPayment.0 - linenr 2750000
+2022/02/23 15:48:51 - 表输出C_ActualPayment.0 - linenr 2750000
+2022/02/23 15:49:20 - 表输入C_Payment.0 - linenr 2850000
+2022/02/23 15:49:37 - 表输入C_ActualPayment.0 - linenr 2800000
+2022/02/23 15:49:44 - 表输出C_ActualPayment.0 - linenr 2800000
+2022/02/23 15:50:00 - 表输出C_Payment.0 - linenr 2850000
+2022/02/23 15:50:24 - 表输入C_ActualPayment.0 - linenr 2850000
+2022/02/23 15:50:46 - 表输出C_ActualPayment.0 - linenr 2850000
+2022/02/23 15:51:10 - 表输入C_Payment.0 - linenr 2900000
+2022/02/23 15:51:38 - 表输出C_Payment.0 - linenr 2900000
+2022/02/23 15:51:38 - 表输入C_ActualPayment.0 - linenr 2900000
+2022/02/23 15:52:07 - 表输出C_ActualPayment.0 - linenr 2900000
+2022/02/23 15:52:54 - 表输入C_Payment.0 - linenr 2950000
+2022/02/23 15:52:59 - 表输入C_ActualPayment.0 - linenr 2950000
+2022/02/23 15:53:09 - 表输出C_ActualPayment.0 - linenr 2950000
+2022/02/23 15:53:13 - 表输出C_Payment.0 - linenr 2950000
+2022/02/23 15:53:45 - 表输入C_ActualPayment.0 - linenr 3000000
+2022/02/23 15:54:05 - 表输出C_ActualPayment.0 - linenr 3000000
+2022/02/23 15:54:36 - 表输入C_Payment.0 - linenr 3000000
+2022/02/23 15:54:51 - 表输入C_ActualPayment.0 - linenr 3050000
+2022/02/23 15:55:08 - 表输出C_ActualPayment.0 - linenr 3050000
+2022/02/23 15:55:11 - 表输出C_Payment.0 - linenr 3000000
+2022/02/23 15:55:52 - 表输入C_ActualPayment.0 - linenr 3100000
+2022/02/23 15:56:15 - 表输出C_ActualPayment.0 - linenr 3100000
+2022/02/23 15:56:40 - 表输入C_Payment.0 - linenr 3050000
+2022/02/23 15:56:51 - 表输入C_ActualPayment.0 - linenr 3150000
+2022/02/23 15:56:56 - 表输出C_Payment.0 - linenr 3050000
+2022/02/23 15:57:15 - 表输出C_ActualPayment.0 - linenr 3150000
+2022/02/23 15:58:07 - 表输入C_ActualPayment.0 - linenr 3200000
+2022/02/23 15:58:34 - 表输出C_ActualPayment.0 - linenr 3200000
+2022/02/23 15:58:42 - 表输入C_Payment.0 - linenr 3100000
+2022/02/23 15:59:17 - 表输出C_Payment.0 - linenr 3100000
+2022/02/23 15:59:26 - 表输入C_ActualPayment.0 - linenr 3250000
+2022/02/23 15:59:46 - 表输出C_ActualPayment.0 - linenr 3250000
+2022/02/23 16:00:31 - 表输入C_ActualPayment.0 - linenr 3300000
+2022/02/23 16:00:49 - 表输入C_Payment.0 - linenr 3150000
+2022/02/23 16:00:53 - 表输出C_ActualPayment.0 - linenr 3300000
+2022/02/23 16:01:03 - 表输出C_Payment.0 - linenr 3150000
+2022/02/23 16:01:46 - 表输入C_ActualPayment.0 - linenr 3350000
+2022/02/23 16:01:57 - 表输出C_ActualPayment.0 - linenr 3350000
+2022/02/23 16:02:28 - 表输入C_Payment.0 - linenr 3200000
+2022/02/23 16:02:41 - 表输入C_ActualPayment.0 - linenr 3400000
+2022/02/23 16:03:02 - 表输出C_ActualPayment.0 - linenr 3400000
+2022/02/23 16:03:05 - 表输出C_Payment.0 - linenr 3200000
+2022/02/23 16:04:17 - 表输入C_ActualPayment.0 - linenr 3450000
+2022/02/23 16:04:26 - 表输出C_ActualPayment.0 - linenr 3450000
+2022/02/23 16:04:30 - 表输入C_Payment.0 - linenr 3250000
+2022/02/23 16:04:50 - 表输出C_Payment.0 - linenr 3250000
+2022/02/23 16:05:17 - 表输入C_ActualPayment.0 - linenr 3500000
+2022/02/23 16:05:41 - 表输出C_ActualPayment.0 - linenr 3500000
+2022/02/23 16:06:43 - 表输入C_Payment.0 - linenr 3300000
+2022/02/23 16:06:54 - 表输出C_Payment.0 - linenr 3300000
+2022/02/23 16:06:57 - 表输入C_ActualPayment.0 - linenr 3550000
+2022/02/23 16:07:07 - 表输出C_ActualPayment.0 - linenr 3550000
+2022/02/23 16:07:53 - 表输入C_ActualPayment.0 - linenr 3600000
+2022/02/23 16:08:21 - 表输入C_Payment.0 - linenr 3350000
+2022/02/23 16:08:28 - 表输出C_ActualPayment.0 - linenr 3600000
+2022/02/23 16:08:47 - 表输出C_Payment.0 - linenr 3350000
+2022/02/23 16:09:30 - 表输入C_ActualPayment.0 - linenr 3650000
+2022/02/23 16:10:06 - 表输出C_ActualPayment.0 - linenr 3650000
+2022/02/23 16:10:15 - 表输入C_Payment.0 - linenr 3400000
+2022/02/23 16:10:32 - 表输出C_Payment.0 - linenr 3400000
+2022/02/23 16:11:08 - 表输入C_ActualPayment.0 - linenr 3700000
+2022/02/23 16:11:33 - 表输出C_ActualPayment.0 - linenr 3700000
+2022/02/23 16:11:53 - 表输入C_Payment.0 - linenr 3450000
+2022/02/23 16:12:02 - 表输出C_Payment.0 - linenr 3450000
+2022/02/23 16:12:52 - 表输入C_ActualPayment.0 - linenr 3750000
+2022/02/23 16:13:18 - 表输出C_ActualPayment.0 - linenr 3750000
+2022/02/23 16:13:22 - 表输入C_Payment.0 - linenr 3500000
+2022/02/23 16:13:32 - 表输出C_Payment.0 - linenr 3500000
+2022/02/23 16:14:17 - 表输入C_ActualPayment.0 - linenr 3800000
+2022/02/23 16:14:53 - 表输出C_ActualPayment.0 - linenr 3800000
+2022/02/23 16:14:56 - 表输入C_Payment.0 - linenr 3550000
+2022/02/23 16:15:07 - 表输出C_Payment.0 - linenr 3550000
+2022/02/23 16:15:52 - 表输入C_ActualPayment.0 - linenr 3850000
+2022/02/23 16:16:30 - 表输出C_ActualPayment.0 - linenr 3850000
+2022/02/23 16:16:33 - 表输入C_Payment.0 - linenr 3600000
+2022/02/23 16:16:48 - 表输出C_Payment.0 - linenr 3600000
+2022/02/23 16:17:30 - 表输入C_ActualPayment.0 - linenr 3900000
+2022/02/23 16:18:04 - 表输出C_ActualPayment.0 - linenr 3900000
+2022/02/23 16:18:07 - 表输入C_Payment.0 - linenr 3650000
+2022/02/23 16:18:19 - 表输出C_Payment.0 - linenr 3650000
+2022/02/23 16:19:10 - 表输入C_ActualPayment.0 - linenr 3950000
+2022/02/23 16:19:45 - 表输出C_ActualPayment.0 - linenr 3950000
+2022/02/23 16:19:48 - 表输入C_Payment.0 - linenr 3700000
+2022/02/23 16:20:00 - 表输出C_Payment.0 - linenr 3700000
+2022/02/23 16:20:56 - 表输入C_ActualPayment.0 - linenr 4000000
+2022/02/23 16:21:22 - 表输出C_ActualPayment.0 - linenr 4000000
+2022/02/23 16:21:26 - 表输入C_Payment.0 - linenr 3750000
+2022/02/23 16:21:40 - 表输出C_Payment.0 - linenr 3750000
+2022/02/23 16:22:25 - 表输入C_ActualPayment.0 - linenr 4050000
+2022/02/23 16:22:48 - 表输入C_Payment.0 - linenr 3800000
+2022/02/23 16:23:02 - 表输出C_Payment.0 - linenr 3800000
+2022/02/23 16:23:34 - 表输出C_ActualPayment.0 - linenr 4050000
+2022/02/23 16:24:17 - 表输入C_Payment.0 - linenr 3850000
+2022/02/23 16:24:25 - 表输出C_Payment.0 - linenr 3850000
+2022/02/23 16:25:15 - 表输入C_ActualPayment.0 - linenr 4100000
+2022/02/23 16:25:42 - 表输入C_Payment.0 - linenr 3900000
+2022/02/23 16:25:53 - 表输出C_Payment.0 - linenr 3900000
+2022/02/23 16:25:53 - 表输出C_ActualPayment.0 - linenr 4100000
+2022/02/23 16:26:45 - 表输入C_ActualPayment.0 - linenr 4150000
+2022/02/23 16:27:13 - 表输入C_Payment.0 - linenr 3950000
+2022/02/23 16:27:27 - 表输出C_ActualPayment.0 - linenr 4150000
+2022/02/23 16:27:30 - 表输出C_Payment.0 - linenr 3950000
+2022/02/23 16:28:26 - 表输入C_ActualPayment.0 - linenr 4200000
+2022/02/23 16:28:30 - 表输入C_Payment.0 - linenr 4000000
+2022/02/23 16:28:38 - 表输出C_Payment.0 - linenr 4000000
+2022/02/23 16:29:06 - 表输出C_ActualPayment.0 - linenr 4200000
+2022/02/23 16:29:26 - 表输入C_Payment.0 - linenr 4050000
+2022/02/23 16:29:37 - 表输出C_Payment.0 - linenr 4050000
+2022/02/23 16:30:14 - 表输入C_ActualPayment.0 - linenr 4250000
+2022/02/23 16:30:40 - 表输入C_Payment.0 - linenr 4100000
+2022/02/23 16:30:46 - 表输出C_Payment.0 - linenr 4100000
+2022/02/23 16:30:53 - 表输出C_ActualPayment.0 - linenr 4250000
+2022/02/23 16:31:15 - 表输入C_ActualPayment.0 - Finished reading query, closing connection.
+2022/02/23 16:31:15 - 表输入C_ActualPayment.0 - 完成处理 (I=4270538, O=0, R=0, W=4270538, U=0, E=0
+2022/02/23 16:31:37 - 表输入C_Payment.0 - linenr 4150000
+2022/02/23 16:31:46 - 表输出C_Payment.0 - linenr 4150000
+2022/02/23 16:31:46 - 表输出C_ActualPayment.0 - 完成处理 (I=0, O=4270538, R=4270538, W=4270538, U=0, E=0
+2022/02/23 16:32:26 - 表输入C_Payment.0 - linenr 4200000
+2022/02/23 16:32:31 - 表输出C_Payment.0 - linenr 4200000
+2022/02/23 16:33:43 - 表输入C_Payment.0 - linenr 4250000
+2022/02/23 16:33:50 - 表输出C_Payment.0 - linenr 4250000
+2022/02/23 16:34:35 - 表输入C_Payment.0 - linenr 4300000
+2022/02/23 16:34:40 - 表输出C_Payment.0 - linenr 4300000
+2022/02/23 16:35:35 - 表输入C_Payment.0 - linenr 4350000
+2022/02/23 16:35:38 - 表输出C_Payment.0 - linenr 4350000
+2022/02/23 16:36:10 - 表输入C_Payment.0 - Finished reading query, closing connection.
+2022/02/23 16:36:10 - 表输入C_Payment.0 - 完成处理 (I=4387140, O=0, R=0, W=4387140, U=0, E=0
+2022/02/23 16:36:12 - 表输出C_Payment.0 - 完成处理 (I=0, O=4387140, R=4387140, W=4387140, U=0, E=0
+2022/02/23 16:36:12 - JOB-YEWU - 开始项[成功01]
+2022/02/23 16:36:12 - JOB-YEWU - 完成作业项[成功01] (结果=[true])
+2022/02/23 16:36:12 - JOB-YEWU - 完成作业项[dataTrans01-04] (结果=[true])
+2022/02/23 16:36:12 - JOB-YEWU - 完成作业项[dataTrans01-03] (结果=[true])
+2022/02/23 16:36:12 - JOB-YEWU - 完成作业项[dataTrans01-02] (结果=[true])
+2022/02/23 16:36:12 - JOB-YEWU - 完成作业项[dataTrans01-01] (结果=[true])
+2022/02/23 16:36:12 - JOB-YEWU - 开始项[dataTrans02-01]
+2022/02/23 16:36:12 - dataTrans02-01 - Loading transformation from XML file [file:///D:/data/ICP-RUITAI/project/aml-gitlab/document/kettle\dataTrans02-01.ktr]
+2022/02/23 16:36:12 - dataTrans02-01 - 为了转换解除补丁开始  [dataTrans02-01]
+2022/02/23 16:36:12 - 表输出LCGrpCont.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 16:36:12 - 表输出LJTempFeeClass.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 16:36:13 - 表输出LLClaimPolicy.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 16:36:14 - 表输出LCGrpPartnerInfo.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 16:36:15 - 表输出LCBnf.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 16:36:16 - 表输出LCGrpPol.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 16:36:17 - 表输出LJAPay.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 16:36:18 - 表输出LPGrpEdorItem.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 16:36:19 - 表输入LCGrpPartnerInfo.0 - Finished reading query, closing connection.
+2022/02/23 16:36:19 - 表输入LCGrpPartnerInfo.0 - 完成处理 (I=915, O=0, R=0, W=915, U=0, E=0
+2022/02/23 16:36:39 - 表输入LJAPay.0 - Finished reading query, closing connection.
+2022/02/23 16:36:39 - 表输入LJAPay.0 - 完成处理 (I=5111, O=0, R=0, W=5111, U=0, E=0
+2022/02/23 16:36:45 - 表输入LJTempFeeClass.0 - Finished reading query, closing connection.
+2022/02/23 16:36:46 - 表输入LCGrpCont.0 - Finished reading query, closing connection.
+2022/02/23 16:36:46 - 表输入LCGrpPol.0 - Finished reading query, closing connection.
+2022/02/23 16:36:48 - 表输入LJTempFeeClass.0 - 完成处理 (I=8508, O=0, R=0, W=8508, U=0, E=0
+2022/02/23 16:36:48 - 表输入LCGrpPol.0 - 完成处理 (I=12648, O=0, R=0, W=12648, U=0, E=0
+2022/02/23 16:36:48 - 表输入LCGrpCont.0 - 完成处理 (I=3970, O=0, R=0, W=3970, U=0, E=0
+2022/02/23 16:36:51 - 表输出LCGrpPartnerInfo.0 - 完成处理 (I=0, O=915, R=915, W=915, U=0, E=0
+2022/02/23 16:38:46 - 表输出LJAPay.0 - 完成处理 (I=0, O=5111, R=5111, W=5111, U=0, E=0
+2022/02/23 16:39:00 - 表输入LPGrpEdorItem.0 - Finished reading query, closing connection.
+2022/02/23 16:39:01 - 表输入LPGrpEdorItem.0 - 完成处理 (I=23677, O=0, R=0, W=23677, U=0, E=0
+2022/02/23 16:39:13 - 表输出LCGrpCont.0 - 完成处理 (I=0, O=3970, R=3970, W=3970, U=0, E=0
+2022/02/23 16:39:25 - 表输入LCBnf.0 - Finished reading query, closing connection.
+2022/02/23 16:39:26 - 表输入LCBnf.0 - 完成处理 (I=25300, O=0, R=0, W=25300, U=0, E=0
+2022/02/23 16:39:28 - 表输入LLClaimPolicy.0 - Finished reading query, closing connection.
+2022/02/23 16:39:29 - 表输入LLClaimPolicy.0 - 完成处理 (I=36215, O=0, R=0, W=36215, U=0, E=0
+2022/02/23 16:39:35 - 表输出LCGrpPol.0 - 完成处理 (I=0, O=12648, R=12648, W=12648, U=0, E=0
+2022/02/23 16:39:42 - 表输出LLClaimPolicy.0 - 完成处理 (I=0, O=36215, R=36215, W=36215, U=0, E=0
+2022/02/23 16:39:46 - 表输出LPGrpEdorItem.0 - 完成处理 (I=0, O=23677, R=23677, W=23677, U=0, E=0
+2022/02/23 16:39:48 - 表输出LCBnf.0 - 完成处理 (I=0, O=25300, R=25300, W=25300, U=0, E=0
+
+团险：40分钟
+2022/02/23 18:49:18 - Version checker - OK
+2022/02/23 18:51:45 - Spoon - 正在开始任务...
+2022/02/23 18:51:49 - JOB-YEWU-02 - 开始执行任务
+2022/02/23 18:51:49 - JOB-YEWU-02 - 开始项[dataTrans02-01]
+2022/02/23 18:51:49 - dataTrans02-01 - Loading transformation from XML file [file:///D:/data/ICP-RUITAI/project/aml-gitlab/document/kettle\dataTrans02-01.ktr]
+2022/02/23 18:51:49 - dataTrans02-01 - 为了转换解除补丁开始  [dataTrans02-01]
+2022/02/23 18:51:50 - 表输出LCGrpPartnerInfo.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:51:50 - 表输出LJTempFeeClass.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:51:50 - 表输出LJAPay.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:51:50 - 表输出LCGrpPol.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:51:50 - 表输出LCBnf.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:51:50 - 表输出LCGrpCont.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:51:50 - 表输出LPGrpEdorItem.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:51:50 - 表输出LLClaimPolicy.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:51:51 - 表输入LCGrpPartnerInfo.0 - Finished reading query, closing connection.
+2022/02/23 18:51:52 - 表输入LCGrpPartnerInfo.0 - 完成处理 (I=915, O=0, R=0, W=915, U=0, E=0
+2022/02/23 18:51:54 - 表输入LJTempFeeClass.0 - Finished reading query, closing connection.
+2022/02/23 18:51:54 - 表输入LJTempFeeClass.0 - 完成处理 (I=8508, O=0, R=0, W=8508, U=0, E=0
+2022/02/23 18:51:55 - 表输入LJAPay.0 - Finished reading query, closing connection.
+2022/02/23 18:51:55 - 表输入LJAPay.0 - 完成处理 (I=5111, O=0, R=0, W=5111, U=0, E=0
+2022/02/23 18:51:58 - 表输入LCGrpCont.0 - Finished reading query, closing connection.
+2022/02/23 18:51:59 - 表输入LCGrpCont.0 - 完成处理 (I=3970, O=0, R=0, W=3970, U=0, E=0
+2022/02/23 18:52:00 - 表输出LCGrpPartnerInfo.0 - 完成处理 (I=0, O=915, R=915, W=915, U=0, E=0
+2022/02/23 18:52:04 - 表输入LCGrpPol.0 - Finished reading query, closing connection.
+2022/02/23 18:52:04 - 表输入LCGrpPol.0 - 完成处理 (I=12648, O=0, R=0, W=12648, U=0, E=0
+2022/02/23 18:52:17 - 表输出LCGrpCont.0 - 完成处理 (I=0, O=3970, R=3970, W=3970, U=0, E=0
+2022/02/23 18:52:19 - 表输入LPGrpEdorItem.0 - Finished reading query, closing connection.
+2022/02/23 18:52:20 - 表输入LPGrpEdorItem.0 - 完成处理 (I=23677, O=0, R=0, W=23677, U=0, E=0
+2022/02/23 18:52:21 - 表输入LCBnf.0 - Finished reading query, closing connection.
+2022/02/23 18:52:21 - 表输入LCBnf.0 - 完成处理 (I=25300, O=0, R=0, W=25300, U=0, E=0
+2022/02/23 18:52:22 - 表输出LJTempFeeClass.0 - 完成处理 (I=0, O=8508, R=8508, W=8508, U=0, E=0
+2022/02/23 18:52:25 - 表输出LJAPay.0 - 完成处理 (I=0, O=5111, R=5111, W=5111, U=0, E=0
+2022/02/23 18:52:30 - 表输入LLClaimPolicy.0 - Finished reading query, closing connection.
+2022/02/23 18:52:31 - 表输入LLClaimPolicy.0 - 完成处理 (I=36215, O=0, R=0, W=36215, U=0, E=0
+2022/02/23 18:52:34 - 表输出LCGrpPol.0 - 完成处理 (I=0, O=12648, R=12648, W=12648, U=0, E=0
+2022/02/23 18:52:39 - 表输出LCBnf.0 - 完成处理 (I=0, O=25300, R=25300, W=25300, U=0, E=0
+2022/02/23 18:52:45 - 表输出LLClaimPolicy.0 - 完成处理 (I=0, O=36215, R=36215, W=36215, U=0, E=0
+2022/02/23 18:52:50 - 表输出LPGrpEdorItem.0 - 完成处理 (I=0, O=23677, R=23677, W=23677, U=0, E=0
+2022/02/23 18:52:50 - JOB-YEWU-02 - 开始项[dataTrans02-02]
+2022/02/23 18:52:50 - dataTrans02-02 - Loading transformation from XML file [file:///D:/data/ICP-RUITAI/project/aml-gitlab/document/kettle\dataTrans02-02.ktr]
+2022/02/23 18:52:50 - dataTrans02-02 - 为了转换解除补丁开始  [dataTrans02-02]
+2022/02/23 18:52:51 - 表输出LCInsured.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:52:52 - 表输出LCPol.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:52:52 - 表输出LJFiGet.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/23 18:53:46 - 表输入LCPol.0 - linenr 50000
+2022/02/23 18:53:48 - 表输入LCInsured.0 - linenr 50000
+2022/02/23 18:53:50 - 表输入LJFiGet.0 - linenr 50000
+2022/02/23 18:54:04 - 表输出LCPol.0 - linenr 50000
+2022/02/23 18:54:15 - 表输出LJFiGet.0 - linenr 50000
+2022/02/23 18:54:26 - 表输出LCInsured.0 - linenr 50000
+2022/02/23 18:54:36 - 表输入LCPol.0 - linenr 100000
+2022/02/23 18:54:50 - 表输入LJFiGet.0 - linenr 100000
+2022/02/23 18:54:56 - 表输出LCPol.0 - linenr 100000
+2022/02/23 18:55:11 - 表输出LJFiGet.0 - linenr 100000
+2022/02/23 18:55:17 - 表输入LCInsured.0 - linenr 100000
+2022/02/23 18:55:28 - 表输入LCPol.0 - linenr 150000
+2022/02/23 18:55:46 - 表输出LCPol.0 - linenr 150000
+2022/02/23 18:55:47 - 表输入LJFiGet.0 - linenr 150000
+2022/02/23 18:55:49 - 表输出LCInsured.0 - linenr 100000
+2022/02/23 18:56:16 - 表输出LJFiGet.0 - linenr 150000
+2022/02/23 18:56:17 - 表输入LCPol.0 - linenr 200000
+2022/02/23 18:56:25 - 表输入LCInsured.0 - linenr 150000
+2022/02/23 18:56:38 - 表输出LCPol.0 - linenr 200000
+2022/02/23 18:56:55 - 表输出LCInsured.0 - linenr 150000
+2022/02/23 18:56:58 - 表输入LJFiGet.0 - linenr 200000
+2022/02/23 18:57:05 - 表输入LCPol.0 - linenr 250000
+2022/02/23 18:57:22 - 表输出LJFiGet.0 - linenr 200000
+2022/02/23 18:57:28 - 表输出LCPol.0 - linenr 250000
+2022/02/23 18:57:44 - 表输入LCInsured.0 - linenr 200000
+2022/02/23 18:57:56 - 表输入LJFiGet.0 - linenr 250000
+2022/02/23 18:57:58 - 表输入LCPol.0 - linenr 300000
+2022/02/23 18:58:13 - 表输出LCPol.0 - linenr 300000
+2022/02/23 18:58:23 - 表输出LCInsured.0 - linenr 200000
+2022/02/23 18:58:25 - 表输出LJFiGet.0 - linenr 250000
+2022/02/23 18:58:25 - 表输入LJFiGet.0 - Finished reading query, closing connection.
+2022/02/23 18:58:25 - 表输入LJFiGet.0 - 完成处理 (I=267763, O=0, R=0, W=267763, U=0, E=0
+2022/02/23 18:58:46 - 表输出LJFiGet.0 - 完成处理 (I=0, O=267763, R=267763, W=267763, U=0, E=0
+2022/02/23 18:58:47 - 表输入LCPol.0 - linenr 350000
+2022/02/23 18:58:59 - 表输入LCInsured.0 - linenr 250000
+2022/02/23 18:59:06 - 表输出LCPol.0 - linenr 350000
+2022/02/23 18:59:20 - 表输出LCInsured.0 - linenr 250000
+2022/02/23 18:59:28 - 表输入LCPol.0 - linenr 400000
+2022/02/23 18:59:42 - 表输出LCPol.0 - linenr 400000
+2022/02/23 18:59:54 - 表输入LCInsured.0 - linenr 300000
+2022/02/23 19:00:02 - 表输入LCPol.0 - linenr 450000
+2022/02/23 19:00:14 - 表输出LCInsured.0 - linenr 300000
+2022/02/23 19:00:16 - 表输出LCPol.0 - linenr 450000
+2022/02/23 19:00:52 - 表输入LCPol.0 - linenr 500000
+2022/02/23 19:01:15 - 表输入LCInsured.0 - linenr 350000
+2022/02/23 19:01:20 - 表输出LCPol.0 - linenr 500000
+2022/02/23 19:01:39 - 表输出LCInsured.0 - linenr 350000
+2022/02/23 19:01:44 - 表输入LCPol.0 - linenr 550000
+2022/02/23 19:02:00 - 表输出LCPol.0 - linenr 550000
+2022/02/23 19:02:10 - 表输入LCInsured.0 - linenr 400000
+2022/02/23 19:02:20 - 表输入LCPol.0 - linenr 600000
+2022/02/23 19:02:32 - 表输出LCInsured.0 - linenr 400000
+2022/02/23 19:02:32 - 表输出LCPol.0 - linenr 600000
+2022/02/23 19:02:53 - 表输入LCPol.0 - linenr 650000
+2022/02/23 19:03:01 - 表输入LCInsured.0 - linenr 450000
+2022/02/23 19:03:08 - 表输出LCPol.0 - linenr 650000
+2022/02/23 19:03:23 - 表输出LCInsured.0 - linenr 450000
+2022/02/23 19:03:32 - 表输入LCPol.0 - linenr 700000
+2022/02/23 19:03:45 - 表输出LCPol.0 - linenr 700000
+2022/02/23 19:04:03 - 表输入LCPol.0 - linenr 750000
+2022/02/23 19:04:04 - 表输入LCInsured.0 - linenr 500000
+2022/02/23 19:04:15 - 表输出LCPol.0 - linenr 750000
+2022/02/23 19:04:24 - 表输出LCInsured.0 - linenr 500000
+2022/02/23 19:04:40 - 表输入LCPol.0 - linenr 800000
+2022/02/23 19:04:53 - 表输出LCPol.0 - linenr 800000
+2022/02/23 19:05:00 - 表输入LCInsured.0 - linenr 550000
+2022/02/23 19:05:14 - 表输入LCPol.0 - linenr 850000
+2022/02/23 19:05:24 - 表输出LCInsured.0 - linenr 550000
+2022/02/23 19:05:25 - 表输出LCPol.0 - linenr 850000
+2022/02/23 19:05:47 - 表输入LCPol.0 - linenr 900000
+2022/02/23 19:05:57 - 表输入LCInsured.0 - linenr 600000
+2022/02/23 19:05:59 - 表输出LCPol.0 - linenr 900000
+2022/02/23 19:06:21 - 表输入LCPol.0 - linenr 950000
+2022/02/23 19:06:22 - 表输出LCInsured.0 - linenr 600000
+2022/02/23 19:06:32 - 表输出LCPol.0 - linenr 950000
+2022/02/23 19:06:49 - 表输入LCPol.0 - linenr 1000000
+2022/02/23 19:07:00 - 表输出LCPol.0 - linenr 1000000
+2022/02/23 19:07:05 - 表输入LCInsured.0 - linenr 650000
+2022/02/23 19:07:19 - 表输入LCPol.0 - linenr 1050000
+2022/02/23 19:07:28 - 表输出LCInsured.0 - linenr 650000
+2022/02/23 19:07:33 - 表输出LCPol.0 - linenr 1050000
+2022/02/23 19:07:55 - 表输入LCInsured.0 - linenr 700000
+2022/02/23 19:08:01 - 表输入LCPol.0 - linenr 1100000
+2022/02/23 19:08:17 - 表输出LCPol.0 - linenr 1100000
+2022/02/23 19:08:17 - 表输出LCInsured.0 - linenr 700000
+2022/02/23 19:08:34 - 表输入LCPol.0 - linenr 1150000
+2022/02/23 19:08:46 - 表输出LCPol.0 - linenr 1150000
+2022/02/23 19:08:55 - 表输入LCInsured.0 - linenr 750000
+2022/02/23 19:09:07 - 表输入LCPol.0 - linenr 1200000
+2022/02/23 19:09:14 - 表输出LCInsured.0 - linenr 750000
+2022/02/23 19:09:21 - 表输出LCPol.0 - linenr 1200000
+2022/02/23 19:09:50 - 表输入LCPol.0 - linenr 1250000
+2022/02/23 19:09:55 - 表输入LCInsured.0 - linenr 800000
+2022/02/23 19:10:00 - 表输出LCPol.0 - linenr 1250000
+2022/02/23 19:10:19 - 表输出LCInsured.0 - linenr 800000
+2022/02/23 19:10:24 - 表输入LCPol.0 - linenr 1300000
+2022/02/23 19:10:43 - 表输出LCPol.0 - linenr 1300000
+2022/02/23 19:10:52 - 表输入LCInsured.0 - linenr 850000
+2022/02/23 19:11:02 - 表输入LCPol.0 - linenr 1350000
+2022/02/23 19:11:14 - 表输出LCPol.0 - linenr 1350000
+2022/02/23 19:11:24 - 表输出LCInsured.0 - linenr 850000
+2022/02/23 19:11:34 - 表输入LCPol.0 - linenr 1400000
+2022/02/23 19:11:52 - 表输入LCInsured.0 - linenr 900000
+2022/02/23 19:11:56 - 表输出LCPol.0 - linenr 1400000
+2022/02/23 19:12:14 - 表输出LCInsured.0 - linenr 900000
+2022/02/23 19:12:16 - 表输入LCPol.0 - linenr 1450000
+2022/02/23 19:12:28 - 表输出LCPol.0 - linenr 1450000
+2022/02/23 19:12:47 - 表输入LCPol.0 - linenr 1500000
+2022/02/23 19:12:53 - 表输入LCInsured.0 - linenr 950000
+2022/02/23 19:13:03 - 表输出LCPol.0 - linenr 1500000
+2022/02/23 19:13:20 - 表输出LCInsured.0 - linenr 950000
+2022/02/23 19:13:23 - 表输入LCPol.0 - linenr 1550000
+2022/02/23 19:13:43 - 表输出LCPol.0 - linenr 1550000
+2022/02/23 19:13:51 - 表输入LCInsured.0 - linenr 1000000
+2022/02/23 19:14:15 - 表输入LCPol.0 - linenr 1600000
+2022/02/23 19:14:18 - 表输出LCInsured.0 - linenr 1000000
+2022/02/23 19:14:31 - 表输出LCPol.0 - linenr 1600000
+2022/02/23 19:14:52 - 表输入LCInsured.0 - linenr 1050000
+2022/02/23 19:14:56 - 表输入LCPol.0 - linenr 1650000
+2022/02/23 19:15:14 - 表输出LCPol.0 - linenr 1650000
+2022/02/23 19:15:16 - 表输出LCInsured.0 - linenr 1050000
+2022/02/23 19:15:33 - 表输入LCPol.0 - linenr 1700000
+2022/02/23 19:15:46 - 表输出LCPol.0 - linenr 1700000
+2022/02/23 19:15:51 - 表输入LCInsured.0 - linenr 1100000
+2022/02/23 19:16:06 - 表输入LCPol.0 - linenr 1750000
+2022/02/23 19:16:13 - 表输出LCInsured.0 - linenr 1100000
+2022/02/23 19:16:13 - 表输入LCInsured.0 - Finished reading query, closing connection.
+2022/02/23 19:16:14 - 表输入LCInsured.0 - 完成处理 (I=1110854, O=0, R=0, W=1110854, U=0, E=0
+2022/02/23 19:16:19 - 表输出LCPol.0 - linenr 1750000
+2022/02/23 19:16:31 - 表输出LCInsured.0 - 完成处理 (I=0, O=1110854, R=1110854, W=1110854, U=0, E=0
+2022/02/23 19:16:35 - 表输入LCPol.0 - linenr 1800000
+2022/02/23 19:16:44 - 表输出LCPol.0 - linenr 1800000
+2022/02/23 19:16:57 - 表输入LCPol.0 - linenr 1850000
+2022/02/23 19:17:07 - 表输出LCPol.0 - linenr 1850000
+2022/02/23 19:17:20 - 表输入LCPol.0 - linenr 1900000
+2022/02/23 19:17:32 - 表输出LCPol.0 - linenr 1900000
+2022/02/23 19:17:46 - 表输入LCPol.0 - linenr 1950000
+2022/02/23 19:17:55 - 表输出LCPol.0 - linenr 1950000
+2022/02/23 19:18:08 - 表输入LCPol.0 - linenr 2000000
+2022/02/23 19:18:17 - 表输出LCPol.0 - linenr 2000000
+2022/02/23 19:18:30 - 表输入LCPol.0 - linenr 2050000
+2022/02/23 19:18:39 - 表输出LCPol.0 - linenr 2050000
+2022/02/23 19:18:53 - 表输入LCPol.0 - linenr 2100000
+2022/02/23 19:19:02 - 表输出LCPol.0 - linenr 2100000
+2022/02/23 19:19:15 - 表输入LCPol.0 - linenr 2150000
+2022/02/23 19:19:23 - 表输出LCPol.0 - linenr 2150000
+2022/02/23 19:19:37 - 表输入LCPol.0 - linenr 2200000
+2022/02/23 19:19:45 - 表输出LCPol.0 - linenr 2200000
+2022/02/23 19:20:00 - 表输入LCPol.0 - linenr 2250000
+2022/02/23 19:20:10 - 表输出LCPol.0 - linenr 2250000
+2022/02/23 19:20:25 - 表输入LCPol.0 - linenr 2300000
+2022/02/23 19:20:33 - 表输出LCPol.0 - linenr 2300000
+2022/02/23 19:20:46 - 表输入LCPol.0 - linenr 2350000
+2022/02/23 19:20:53 - 表输出LCPol.0 - linenr 2350000
+2022/02/23 19:21:08 - 表输入LCPol.0 - linenr 2400000
+2022/02/23 19:21:18 - 表输出LCPol.0 - linenr 2400000
+2022/02/23 19:21:31 - 表输入LCPol.0 - linenr 2450000
+2022/02/23 19:21:40 - 表输出LCPol.0 - linenr 2450000
+2022/02/23 19:21:53 - 表输入LCPol.0 - linenr 2500000
+2022/02/23 19:22:02 - 表输出LCPol.0 - linenr 2500000
+2022/02/23 19:22:15 - 表输入LCPol.0 - linenr 2550000
+2022/02/23 19:22:24 - 表输出LCPol.0 - linenr 2550000
+2022/02/23 19:22:37 - 表输入LCPol.0 - linenr 2600000
+2022/02/23 19:22:45 - 表输出LCPol.0 - linenr 2600000
+2022/02/23 19:22:58 - 表输入LCPol.0 - linenr 2650000
+2022/02/23 19:23:07 - 表输出LCPol.0 - linenr 2650000
+2022/02/23 19:23:26 - 表输入LCPol.0 - linenr 2700000
+2022/02/23 19:23:36 - 表输出LCPol.0 - linenr 2700000
+2022/02/23 19:23:54 - 表输入LCPol.0 - linenr 2750000
+2022/02/23 19:24:02 - 表输出LCPol.0 - linenr 2750000
+2022/02/23 19:24:16 - 表输入LCPol.0 - linenr 2800000
+2022/02/23 19:24:25 - 表输出LCPol.0 - linenr 2800000
+2022/02/23 19:24:39 - 表输入LCPol.0 - linenr 2850000
+2022/02/23 19:24:53 - 表输出LCPol.0 - linenr 2850000
+2022/02/23 19:25:12 - 表输入LCPol.0 - linenr 2900000
+2022/02/23 19:25:20 - 表输出LCPol.0 - linenr 2900000
+2022/02/23 19:25:35 - 表输入LCPol.0 - linenr 2950000
+2022/02/23 19:25:43 - 表输出LCPol.0 - linenr 2950000
+2022/02/23 19:25:57 - 表输入LCPol.0 - linenr 3000000
+2022/02/23 19:26:05 - 表输出LCPol.0 - linenr 3000000
+2022/02/23 19:26:17 - 表输入LCPol.0 - linenr 3050000
+2022/02/23 19:26:25 - 表输出LCPol.0 - linenr 3050000
+2022/02/23 19:26:38 - 表输入LCPol.0 - linenr 3100000
+2022/02/23 19:26:46 - 表输出LCPol.0 - linenr 3100000
+2022/02/23 19:27:01 - 表输入LCPol.0 - linenr 3150000
+2022/02/23 19:27:11 - 表输出LCPol.0 - linenr 3150000
+2022/02/23 19:27:28 - 表输入LCPol.0 - linenr 3200000
+2022/02/23 19:27:37 - 表输出LCPol.0 - linenr 3200000
+2022/02/23 19:27:51 - 表输入LCPol.0 - linenr 3250000
+2022/02/23 19:28:00 - 表输出LCPol.0 - linenr 3250000
+2022/02/23 19:28:21 - 表输入LCPol.0 - linenr 3300000
+2022/02/23 19:28:35 - 表输出LCPol.0 - linenr 3300000
+2022/02/23 19:28:35 - 表输入LCPol.0 - Finished reading query, closing connection.
+2022/02/23 19:28:35 - 表输入LCPol.0 - 完成处理 (I=3317763, O=0, R=0, W=3317763, U=0, E=0
+2022/02/23 19:28:59 - 表输出LCPol.0 - 完成处理 (I=0, O=3317763, R=3317763, W=3317763, U=0, E=0
+
+同步到SIT开始：2022/02/23 19:48:05
+198039+250000+6769
+
+
+

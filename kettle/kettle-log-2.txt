@@ -1,0 +1,279 @@
+客户风险等级迁移：
+2022/02/28 22:27:27 - Spoon - 正在开始任务...
+2022/02/28 22:27:27 - JOB-CUST-DO - 开始执行任务
+2022/02/28 22:27:27 - JOB-CUST-DO - 开始项[建表SQL]
+2022/02/28 22:27:38 - JOB-CUST-DO - 开始项[原表数据迁移]
+2022/02/28 22:27:38 - 原表数据迁移 - Loading transformation from XML file [file:///D:/data/ICP-RUITAI/project/aml-gitlab/document/kettle/custTrans00-01.ktr]
+2022/02/28 22:27:38 - custTrans00-01 - 为了转换解除补丁开始  [custTrans00-01]
+2022/02/28 22:27:39 - 表输出T_LXUserRiskTrace.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/28 22:27:39 - 表输出T_LXUserRiskLevel.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/28 22:27:39 - 表输出T_LXUserRiskRela.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/28 22:27:40 - 表输出T_LXUserRiskRelaModify.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/28 22:27:41 - 表输出T_LMRiskFactor.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/28 22:27:42 - 表输入T_LMRiskFactor.0 - Finished reading query, closing connection.
+2022/02/28 22:27:42 - 表输入T_LMRiskFactor.0 - 完成处理 (I=19, O=0, R=0, W=19, U=0, E=0
+2022/02/28 22:27:45 - 表输出T_LMRiskFactor.0 - 完成处理 (I=0, O=19, R=19, W=19, U=0, E=0
+2022/02/28 22:28:17 - 表输入T_LXUserRiskRela.0 - linenr 50000
+2022/02/28 22:28:30 - 表输出T_LXUserRiskRela.0 - linenr 50000
+2022/02/28 22:28:37 - 表输入T_LXUserRiskLevel.0 - linenr 50000
+2022/02/28 22:28:40 - 表输入T_LXUserRiskRelaModify.0 - linenr 50000
+2022/02/28 22:28:48 - 表输入T_LXUserRiskRela.0 - linenr 100000
+2022/02/28 22:29:01 - 表输入T_LXUserRiskTrace.0 - linenr 50000
+2022/02/28 22:29:05 - 表输出T_LXUserRiskRela.0 - linenr 100000
+2022/02/28 22:29:06 - 表输出T_LXUserRiskRelaModify.0 - linenr 50000
+2022/02/28 22:29:18 - 表输出T_LXUserRiskLevel.0 - linenr 50000
+2022/02/28 22:29:34 - 表输入T_LXUserRiskRela.0 - linenr 150000
+2022/02/28 22:29:44 - 表输出T_LXUserRiskRela.0 - linenr 150000
+2022/02/28 22:29:50 - 表输出T_LXUserRiskTrace.0 - linenr 50000
+2022/02/28 22:29:57 - 表输入T_LXUserRiskRelaModify.0 - linenr 100000
+2022/02/28 22:30:01 - 表输入T_LXUserRiskRela.0 - linenr 200000
+2022/02/28 22:30:16 - 表输出T_LXUserRiskRela.0 - linenr 200000
+2022/02/28 22:30:21 - 表输入T_LXUserRiskLevel.0 - linenr 100000
+2022/02/28 22:30:30 - 表输出T_LXUserRiskRelaModify.0 - linenr 100000
+2022/02/28 22:30:41 - 表输入T_LXUserRiskRela.0 - linenr 250000
+2022/02/28 22:30:48 - 表输入T_LXUserRiskTrace.0 - linenr 100000
+2022/02/28 22:30:53 - 表输出T_LXUserRiskRela.0 - linenr 250000
+2022/02/28 22:31:01 - 表输出T_LXUserRiskLevel.0 - linenr 100000
+2022/02/28 22:31:14 - 表输入T_LXUserRiskRela.0 - linenr 300000
+2022/02/28 22:31:16 - 表输入T_LXUserRiskRelaModify.0 - linenr 150000
+2022/02/28 22:31:29 - 表输出T_LXUserRiskTrace.0 - linenr 100000
+2022/02/28 22:31:36 - 表输出T_LXUserRiskRela.0 - linenr 300000
+2022/02/28 22:32:14 - 表输出T_LXUserRiskRelaModify.0 - linenr 150000
+2022/02/28 22:32:24 - 表输入T_LXUserRiskRela.0 - linenr 350000
+2022/02/28 22:32:33 - 表输入T_LXUserRiskLevel.0 - linenr 150000
+2022/02/28 22:32:47 - 表输出T_LXUserRiskRela.0 - linenr 350000
+2022/02/28 22:32:50 - 表输入T_LXUserRiskRelaModify.0 - linenr 200000
+2022/02/28 22:33:06 - 表输出T_LXUserRiskLevel.0 - linenr 150000
+2022/02/28 22:33:07 - 表输入T_LXUserRiskRela.0 - linenr 400000
+2022/02/28 22:33:07 - 表输入T_LXUserRiskTrace.0 - linenr 150000
+2022/02/28 22:33:17 - 表输出T_LXUserRiskRela.0 - linenr 400000
+2022/02/28 22:33:19 - 表输出T_LXUserRiskRelaModify.0 - linenr 200000
+2022/02/28 22:33:40 - 表输入T_LXUserRiskRela.0 - linenr 450000
+2022/02/28 22:33:48 - 表输入T_LXUserRiskRelaModify.0 - Finished reading query, closing connection.
+2022/02/28 22:33:48 - 表输入T_LXUserRiskRelaModify.0 - 完成处理 (I=238458, O=0, R=0, W=238458, U=0, E=0
+2022/02/28 22:33:56 - 表输出T_LXUserRiskRela.0 - linenr 450000
+2022/02/28 22:33:56 - 表输入T_LXUserRiskLevel.0 - linenr 200000
+2022/02/28 22:33:57 - 表输出T_LXUserRiskTrace.0 - linenr 150000
+2022/02/28 22:34:13 - 表输出T_LXUserRiskRelaModify.0 - 完成处理 (I=0, O=238458, R=238458, W=238458, U=0, E=0
+2022/02/28 22:34:18 - 表输入T_LXUserRiskRela.0 - linenr 500000
+2022/02/28 22:34:34 - 表输出T_LXUserRiskRela.0 - linenr 500000
+2022/02/28 22:34:35 - 表输出T_LXUserRiskLevel.0 - linenr 200000
+2022/02/28 22:34:48 - 表输入T_LXUserRiskRela.0 - linenr 550000
+2022/02/28 22:34:53 - 表输入T_LXUserRiskLevel.0 - Finished reading query, closing connection.
+2022/02/28 22:34:54 - 表输入T_LXUserRiskLevel.0 - 完成处理 (I=222645, O=0, R=0, W=222645, U=0, E=0
+2022/02/28 22:34:57 - 表输出T_LXUserRiskRela.0 - linenr 550000
+2022/02/28 22:35:12 - 表输入T_LXUserRiskRela.0 - linenr 600000
+2022/02/28 22:35:12 - 表输入T_LXUserRiskTrace.0 - linenr 200000
+2022/02/28 22:35:14 - 表输出T_LXUserRiskLevel.0 - 完成处理 (I=0, O=222645, R=222645, W=222645, U=0, E=0
+2022/02/28 22:35:22 - 表输出T_LXUserRiskRela.0 - linenr 600000
+2022/02/28 22:35:33 - 表输入T_LXUserRiskRela.0 - linenr 650000
+2022/02/28 22:35:42 - 表输出T_LXUserRiskRela.0 - linenr 650000
+2022/02/28 22:35:54 - 表输入T_LXUserRiskRela.0 - linenr 700000
+2022/02/28 22:35:59 - 表输出T_LXUserRiskTrace.0 - linenr 200000
+2022/02/28 22:36:04 - 表输出T_LXUserRiskRela.0 - linenr 700000
+2022/02/28 22:36:17 - 表输入T_LXUserRiskRela.0 - linenr 750000
+2022/02/28 22:36:25 - 表输出T_LXUserRiskRela.0 - linenr 750000
+2022/02/28 22:36:37 - 表输入T_LXUserRiskRela.0 - linenr 800000
+2022/02/28 22:36:46 - 表输出T_LXUserRiskRela.0 - linenr 800000
+2022/02/28 22:36:55 - 表输入T_LXUserRiskTrace.0 - linenr 250000
+2022/02/28 22:37:00 - 表输入T_LXUserRiskRela.0 - linenr 850000
+2022/02/28 22:37:07 - 表输出T_LXUserRiskRela.0 - linenr 850000
+2022/02/28 22:37:19 - 表输入T_LXUserRiskRela.0 - linenr 900000
+2022/02/28 22:37:27 - 表输出T_LXUserRiskRela.0 - linenr 900000
+2022/02/28 22:37:37 - 表输出T_LXUserRiskTrace.0 - linenr 250000
+2022/02/28 22:37:41 - 表输入T_LXUserRiskRela.0 - linenr 950000
+2022/02/28 22:37:56 - 表输出T_LXUserRiskRela.0 - linenr 950000
+2022/02/28 22:38:09 - 表输入T_LXUserRiskRela.0 - linenr 1000000
+2022/02/28 22:38:18 - 表输出T_LXUserRiskRela.0 - linenr 1000000
+2022/02/28 22:38:31 - 表输入T_LXUserRiskRela.0 - linenr 1050000
+2022/02/28 22:38:36 - 表输入T_LXUserRiskTrace.0 - linenr 300000
+2022/02/28 22:38:40 - 表输出T_LXUserRiskRela.0 - linenr 1050000
+2022/02/28 22:38:53 - 表输入T_LXUserRiskRela.0 - linenr 1100000
+2022/02/28 22:39:01 - 表输出T_LXUserRiskRela.0 - linenr 1100000
+2022/02/28 22:39:17 - 表输出T_LXUserRiskTrace.0 - linenr 300000
+2022/02/28 22:39:23 - 表输入T_LXUserRiskRela.0 - linenr 1150000
+2022/02/28 22:39:36 - 表输出T_LXUserRiskRela.0 - linenr 1150000
+2022/02/28 22:39:52 - 表输入T_LXUserRiskRela.0 - linenr 1200000
+2022/02/28 22:40:02 - 表输出T_LXUserRiskRela.0 - linenr 1200000
+2022/02/28 22:40:04 - 表输入T_LXUserRiskTrace.0 - linenr 350000
+2022/02/28 22:40:17 - 表输入T_LXUserRiskRela.0 - linenr 1250000
+2022/02/28 22:40:31 - 表输出T_LXUserRiskRela.0 - linenr 1250000
+2022/02/28 22:40:34 - 表输出T_LXUserRiskTrace.0 - linenr 350000
+2022/02/28 22:40:50 - 表输入T_LXUserRiskRela.0 - linenr 1300000
+2022/02/28 22:40:59 - 表输出T_LXUserRiskRela.0 - linenr 1300000
+2022/02/28 22:41:12 - 表输入T_LXUserRiskRela.0 - linenr 1350000
+2022/02/28 22:41:28 - 表输出T_LXUserRiskRela.0 - linenr 1350000
+2022/02/28 22:41:30 - 表输入T_LXUserRiskTrace.0 - linenr 400000
+2022/02/28 22:41:45 - 表输入T_LXUserRiskRela.0 - linenr 1400000
+2022/02/28 22:41:55 - 表输出T_LXUserRiskRela.0 - linenr 1400000
+2022/02/28 22:41:56 - 表输出T_LXUserRiskTrace.0 - linenr 400000
+2022/02/28 22:41:56 - 表输入T_LXUserRiskTrace.0 - Finished reading query, closing connection.
+2022/02/28 22:41:56 - 表输入T_LXUserRiskTrace.0 - 完成处理 (I=419734, O=0, R=0, W=419734, U=0, E=0
+2022/02/28 22:42:09 - 表输入T_LXUserRiskRela.0 - linenr 1450000
+2022/02/28 22:42:18 - 表输出T_LXUserRiskRela.0 - linenr 1450000
+2022/02/28 22:42:33 - 表输入T_LXUserRiskRela.0 - linenr 1500000
+2022/02/28 22:42:41 - 表输出T_LXUserRiskRela.0 - linenr 1500000
+2022/02/28 22:42:41 - 表输出T_LXUserRiskTrace.0 - 完成处理 (I=0, O=419734, R=419734, W=419734, U=0, E=0
+2022/02/28 22:42:52 - 表输入T_LXUserRiskRela.0 - linenr 1550000
+2022/02/28 22:42:59 - 表输出T_LXUserRiskRela.0 - linenr 1550000
+2022/02/28 22:43:09 - 表输入T_LXUserRiskRela.0 - linenr 1600000
+2022/02/28 22:43:17 - 表输出T_LXUserRiskRela.0 - linenr 1600000
+2022/02/28 22:43:28 - 表输入T_LXUserRiskRela.0 - linenr 1650000
+2022/02/28 22:43:40 - 表输出T_LXUserRiskRela.0 - linenr 1650000
+2022/02/28 22:43:56 - 表输入T_LXUserRiskRela.0 - linenr 1700000
+2022/02/28 22:44:04 - 表输出T_LXUserRiskRela.0 - linenr 1700000
+2022/02/28 22:44:16 - 表输入T_LXUserRiskRela.0 - linenr 1750000
+2022/02/28 22:44:25 - 表输出T_LXUserRiskRela.0 - linenr 1750000
+2022/02/28 22:44:37 - 表输入T_LXUserRiskRela.0 - linenr 1800000
+2022/02/28 22:44:44 - 表输出T_LXUserRiskRela.0 - linenr 1800000
+2022/02/28 22:44:55 - 表输入T_LXUserRiskRela.0 - linenr 1850000
+2022/02/28 22:45:02 - 表输出T_LXUserRiskRela.0 - linenr 1850000
+2022/02/28 22:45:14 - 表输入T_LXUserRiskRela.0 - linenr 1900000
+2022/02/28 22:45:22 - 表输出T_LXUserRiskRela.0 - linenr 1900000
+2022/02/28 22:45:34 - 表输入T_LXUserRiskRela.0 - linenr 1950000
+2022/02/28 22:45:47 - 表输出T_LXUserRiskRela.0 - linenr 1950000
+2022/02/28 22:45:58 - 表输入T_LXUserRiskRela.0 - linenr 2000000
+2022/02/28 22:46:07 - 表输出T_LXUserRiskRela.0 - linenr 2000000
+2022/02/28 22:46:22 - 表输入T_LXUserRiskRela.0 - linenr 2050000
+2022/02/28 22:46:32 - 表输出T_LXUserRiskRela.0 - linenr 2050000
+2022/02/28 22:46:43 - 表输入T_LXUserRiskRela.0 - linenr 2100000
+2022/02/28 22:47:10 - 表输出T_LXUserRiskRela.0 - linenr 2100000
+2022/02/28 22:47:23 - 表输入T_LXUserRiskRela.0 - linenr 2150000
+2022/02/28 22:47:50 - 表输出T_LXUserRiskRela.0 - linenr 2150000
+2022/02/28 22:48:11 - 表输入T_LXUserRiskRela.0 - linenr 2200000
+2022/02/28 22:48:19 - 表输出T_LXUserRiskRela.0 - linenr 2200000
+2022/02/28 22:48:40 - 表输入T_LXUserRiskRela.0 - linenr 2250000
+2022/02/28 22:48:54 - 表输出T_LXUserRiskRela.0 - linenr 2250000
+2022/02/28 22:49:13 - 表输入T_LXUserRiskRela.0 - linenr 2300000
+2022/02/28 22:49:20 - 表输出T_LXUserRiskRela.0 - linenr 2300000
+2022/02/28 22:49:31 - 表输入T_LXUserRiskRela.0 - linenr 2350000
+2022/02/28 22:49:38 - 表输出T_LXUserRiskRela.0 - linenr 2350000
+2022/02/28 22:49:48 - 表输入T_LXUserRiskRela.0 - linenr 2400000
+2022/02/28 22:49:56 - 表输出T_LXUserRiskRela.0 - linenr 2400000
+2022/02/28 22:50:06 - 表输入T_LXUserRiskRela.0 - linenr 2450000
+2022/02/28 22:50:14 - 表输出T_LXUserRiskRela.0 - linenr 2450000
+2022/02/28 22:50:25 - 表输入T_LXUserRiskRela.0 - linenr 2500000
+2022/02/28 22:50:32 - 表输出T_LXUserRiskRela.0 - linenr 2500000
+2022/02/28 22:50:44 - 表输入T_LXUserRiskRela.0 - linenr 2550000
+2022/02/28 22:51:02 - 表输出T_LXUserRiskRela.0 - linenr 2550000
+2022/02/28 22:51:13 - 表输入T_LXUserRiskRela.0 - linenr 2600000
+2022/02/28 22:51:20 - 表输出T_LXUserRiskRela.0 - linenr 2600000
+2022/02/28 22:51:30 - 表输入T_LXUserRiskRela.0 - linenr 2650000
+2022/02/28 22:51:39 - 表输出T_LXUserRiskRela.0 - linenr 2650000
+2022/02/28 22:51:53 - 表输入T_LXUserRiskRela.0 - linenr 2700000
+2022/02/28 22:52:01 - 表输出T_LXUserRiskRela.0 - linenr 2700000
+2022/02/28 22:52:12 - 表输入T_LXUserRiskRela.0 - linenr 2750000
+2022/02/28 22:52:19 - 表输出T_LXUserRiskRela.0 - linenr 2750000
+2022/02/28 22:52:30 - 表输入T_LXUserRiskRela.0 - linenr 2800000
+2022/02/28 22:52:41 - 表输出T_LXUserRiskRela.0 - linenr 2800000
+2022/02/28 22:53:02 - 表输入T_LXUserRiskRela.0 - linenr 2850000
+2022/02/28 22:53:23 - 表输出T_LXUserRiskRela.0 - linenr 2850000
+2022/02/28 22:53:46 - 表输入T_LXUserRiskRela.0 - linenr 2900000
+2022/02/28 22:53:57 - 表输出T_LXUserRiskRela.0 - linenr 2900000
+2022/02/28 22:54:08 - 表输入T_LXUserRiskRela.0 - linenr 2950000
+2022/02/28 22:54:15 - 表输出T_LXUserRiskRela.0 - linenr 2950000
+2022/02/28 22:54:28 - 表输入T_LXUserRiskRela.0 - linenr 3000000
+2022/02/28 22:54:34 - 表输出T_LXUserRiskRela.0 - linenr 3000000
+2022/02/28 22:54:45 - 表输入T_LXUserRiskRela.0 - linenr 3050000
+2022/02/28 22:54:55 - 表输出T_LXUserRiskRela.0 - linenr 3050000
+2022/02/28 22:55:06 - 表输入T_LXUserRiskRela.0 - linenr 3100000
+2022/02/28 22:55:17 - 表输出T_LXUserRiskRela.0 - linenr 3100000
+2022/02/28 22:55:30 - 表输入T_LXUserRiskRela.0 - linenr 3150000
+2022/02/28 22:55:37 - 表输出T_LXUserRiskRela.0 - linenr 3150000
+2022/02/28 22:55:48 - 表输入T_LXUserRiskRela.0 - linenr 3200000
+2022/02/28 22:55:55 - 表输出T_LXUserRiskRela.0 - linenr 3200000
+2022/02/28 22:56:06 - 表输入T_LXUserRiskRela.0 - linenr 3250000
+2022/02/28 22:56:13 - 表输出T_LXUserRiskRela.0 - linenr 3250000
+2022/02/28 22:56:24 - 表输入T_LXUserRiskRela.0 - linenr 3300000
+2022/02/28 22:56:33 - 表输出T_LXUserRiskRela.0 - linenr 3300000
+2022/02/28 22:56:45 - 表输入T_LXUserRiskRela.0 - linenr 3350000
+2022/02/28 22:56:52 - 表输出T_LXUserRiskRela.0 - linenr 3350000
+2022/02/28 22:57:03 - 表输入T_LXUserRiskRela.0 - linenr 3400000
+2022/02/28 22:57:12 - 表输出T_LXUserRiskRela.0 - linenr 3400000
+2022/02/28 22:57:26 - 表输入T_LXUserRiskRela.0 - linenr 3450000
+2022/02/28 22:57:34 - 表输出T_LXUserRiskRela.0 - linenr 3450000
+2022/02/28 22:57:46 - 表输入T_LXUserRiskRela.0 - linenr 3500000
+2022/02/28 22:57:55 - 表输出T_LXUserRiskRela.0 - linenr 3500000
+2022/02/28 22:58:07 - 表输入T_LXUserRiskRela.0 - linenr 3550000
+2022/02/28 22:58:14 - 表输出T_LXUserRiskRela.0 - linenr 3550000
+2022/02/28 22:58:24 - 表输入T_LXUserRiskRela.0 - linenr 3600000
+2022/02/28 22:58:32 - 表输出T_LXUserRiskRela.0 - linenr 3600000
+2022/02/28 22:58:44 - 表输入T_LXUserRiskRela.0 - linenr 3650000
+2022/02/28 22:58:54 - 表输出T_LXUserRiskRela.0 - linenr 3650000
+2022/02/28 22:59:07 - 表输入T_LXUserRiskRela.0 - linenr 3700000
+2022/02/28 22:59:14 - 表输出T_LXUserRiskRela.0 - linenr 3700000
+2022/02/28 22:59:26 - 表输入T_LXUserRiskRela.0 - linenr 3750000
+2022/02/28 22:59:39 - 表输出T_LXUserRiskRela.0 - linenr 3750000
+2022/02/28 22:59:49 - 表输入T_LXUserRiskRela.0 - linenr 3800000
+2022/02/28 22:59:56 - 表输出T_LXUserRiskRela.0 - linenr 3800000
+2022/02/28 23:00:06 - 表输入T_LXUserRiskRela.0 - linenr 3850000
+2022/02/28 23:00:13 - 表输出T_LXUserRiskRela.0 - linenr 3850000
+2022/02/28 23:00:23 - 表输入T_LXUserRiskRela.0 - linenr 3900000
+2022/02/28 23:00:32 - 表输出T_LXUserRiskRela.0 - linenr 3900000
+2022/02/28 23:00:43 - 表输入T_LXUserRiskRela.0 - linenr 3950000
+2022/02/28 23:00:50 - 表输出T_LXUserRiskRela.0 - linenr 3950000
+2022/02/28 23:01:10 - 表输入T_LXUserRiskRela.0 - linenr 4000000
+2022/02/28 23:01:20 - 表输出T_LXUserRiskRela.0 - linenr 4000000
+2022/02/28 23:01:36 - 表输入T_LXUserRiskRela.0 - linenr 4050000
+2022/02/28 23:01:46 - 表输出T_LXUserRiskRela.0 - linenr 4050000
+2022/02/28 23:01:58 - 表输入T_LXUserRiskRela.0 - linenr 4100000
+2022/02/28 23:02:06 - 表输出T_LXUserRiskRela.0 - linenr 4100000
+2022/02/28 23:02:17 - 表输入T_LXUserRiskRela.0 - linenr 4150000
+2022/02/28 23:02:24 - 表输出T_LXUserRiskRela.0 - linenr 4150000
+2022/02/28 23:02:35 - 表输入T_LXUserRiskRela.0 - linenr 4200000
+2022/02/28 23:02:43 - 表输出T_LXUserRiskRela.0 - linenr 4200000
+2022/02/28 23:02:50 - 表输入T_LXUserRiskRela.0 - Finished reading query, closing connection.
+2022/02/28 23:02:50 - 表输入T_LXUserRiskRela.0 - 完成处理 (I=4235454, O=0, R=0, W=4235454, U=0, E=0
+2022/02/28 23:03:08 - 表输出T_LXUserRiskRela.0 - 完成处理 (I=0, O=4235454, R=4235454, W=4235454, U=0, E=0
+2022/02/28 23:03:08 - JOB-CUST-DO - 开始项[中间表转换]
+2022/02/28 23:03:08 - 中间表转换 - Loading transformation from XML file [file:///D:/data/ICP-RUITAI/project/aml-gitlab/document/kettle/custTrans00-02.ktr]
+2022/02/28 23:03:08 - custTrans00-02 - 为了转换解除补丁开始  [custTrans00-02]
+2022/02/28 23:03:09 - 表输出T_LXUserRiskTrade.0 - Connected to database [AMLN-DB] (commit=10000)
+2022/02/28 23:04:15 - 表输入T_LXUserRiskTrade.0 - linenr 50000
+2022/02/28 23:04:47 - 表输出T_LXUserRiskTrade.0 - linenr 50000
+2022/02/28 23:05:46 - 表输入T_LXUserRiskTrade.0 - linenr 100000
+2022/02/28 23:06:20 - 表输出T_LXUserRiskTrade.0 - linenr 100000
+2022/02/28 23:07:13 - 表输入T_LXUserRiskTrade.0 - linenr 150000
+2022/02/28 23:07:43 - 表输出T_LXUserRiskTrade.0 - linenr 150000
+2022/02/28 23:08:44 - 表输入T_LXUserRiskTrade.0 - linenr 200000
+2022/02/28 23:09:24 - 表输出T_LXUserRiskTrade.0 - linenr 200000
+2022/02/28 23:10:30 - 表输入T_LXUserRiskTrade.0 - linenr 250000
+2022/02/28 23:11:08 - 表输出T_LXUserRiskTrade.0 - linenr 250000
+2022/02/28 23:12:18 - 表输入T_LXUserRiskTrade.0 - linenr 300000
+2022/02/28 23:12:52 - 表输出T_LXUserRiskTrade.0 - linenr 300000
+2022/02/28 23:12:52 - 表输入T_LXUserRiskTrade.0 - Finished reading query, closing connection.
+2022/02/28 23:12:52 - 表输入T_LXUserRiskTrade.0 - 完成处理 (I=314072, O=0, R=0, W=314072, U=0, E=0
+2022/02/28 23:13:22 - 表输出T_LXUserRiskTrade.0 - 完成处理 (I=0, O=314072, R=314072, W=314072, U=0, E=0
+2022/02/28 23:13:22 - JOB-CUST-DO - 开始项[风险等级构造]
+2022/02/28 23:13:22 - JOB-TEMP-CUST - 开始项[SQL[2016-12-31以前]]
+2022/02/28 23:16:17 - JOB-TEMP-CUST - 开始项[SQL[20170101-20171231] ]
+2022/02/28 23:18:20 - JOB-TEMP-CUST - 开始项[SQL[20180101-20181231]]
+2022/02/28 23:19:02 - JOB-TEMP-CUST - 开始项[SQL[20210101-20211231] ]
+2022/02/28 23:19:15 - JOB-TEMP-CUST - 开始项[SQL[20200101-20201231] ]
+2022/02/28 23:20:03 - JOB-TEMP-CUST - 开始项[SQL[20190101-20191231] ]
+2022/02/28 23:20:09 - JOB-TEMP-CUST - 开始项[SQL[20220101以後] ]
+2022/02/28 23:20:10 - JOB-TEMP-CUST - 开始项[构造T_LXUserRisklevTemp]
+2022/02/28 23:20:51 - JOB-TEMP-CUST - 开始项[SQL构造风险等级表]
+2022/02/28 23:21:15 - JOB-TEMP-CUST - 开始项[SQL构造评估池表]
+2022/02/28 23:22:28 - JOB-TEMP-CUST - 开始项[收尾逻辑]
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 开始项[成功]
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[成功] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[收尾逻辑] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[SQL构造评估池表] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[SQL构造风险等级表] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[构造T_LXUserRisklevTemp] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[SQL[20220101以後] ] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[SQL[20190101-20191231] ] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[SQL[20200101-20201231] ] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[SQL[20210101-20211231] ] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[SQL[20180101-20181231]] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[SQL[20170101-20171231] ] (结果=[true])
+2022/02/28 23:29:30 - JOB-TEMP-CUST - 完成作业项[SQL[2016-12-31以前]] (结果=[true])
+2022/02/28 23:29:30 - JOB-CUST-DO - 开始项[成功]
+2022/02/28 23:29:30 - JOB-CUST-DO - 完成作业项[成功] (结果=[true])
+2022/02/28 23:29:30 - JOB-CUST-DO - 完成作业项[风险等级构造] (结果=[true])
+2022/02/28 23:29:30 - JOB-CUST-DO - 完成作业项[中间表转换] (结果=[true])
+2022/02/28 23:29:30 - JOB-CUST-DO - 完成作业项[原表数据迁移] (结果=[true])
+2022/02/28 23:29:30 - JOB-CUST-DO - 完成作业项[建表SQL] (结果=[true])
+2022/02/28 23:29:30 - JOB-CUST-DO - 任务执行完毕
+2022/02/28 23:29:30 - Spoon - 任务已经结束.
